@@ -62,7 +62,10 @@ export default function QuestionSwiper() {
       allowSlidePrev={true}
     >
       {questions.map((question, index) => (
-        <SwiperSlide key={index} className="w-full rounded-md bg-white p-8">
+        <SwiperSlide
+          key={index}
+          className="w-full rounded-2xl border border-[#DE7E15]/35 bg-[#FEF4CE]/94 p-8 shadow-2xl backdrop-blur-md"
+        >
           <QuestionCard
             selectedAnswerId={
               atom.find((a) => a.questionId === index)?.answerId

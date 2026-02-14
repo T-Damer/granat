@@ -17,52 +17,76 @@ msgstr ""
 #~ msgid " Менее 69,0 г/л"
 #~ msgstr " 69,0 g/l dan kam"
 
+#: src/helpers/hooks/useQuestions.tsx:27
+msgid "0-1"
+msgstr "0-1"
+
+#: src/helpers/hooks/useQuestions.tsx:47
+msgid "1 инфекция"
+msgstr "1 infeksiya"
+
 #: src/helpers/hooks/useQuestions.tsx:178
-msgid "180-150 × 10⁹"
-msgstr "180-150 × 10⁹"
+#~ msgid "180-150 × 10⁹"
+#~ msgstr "180-150 × 10⁹"
 
 #: src/helpers/hooks/useQuestions.tsx:177
-msgid "180–320 × 10⁹"
-msgstr "180–320 × 10⁹"
+#~ msgid "180–320 × 10⁹"
+#~ msgstr "180–320 × 10⁹"
+
+#: src/helpers/hooks/useQuestions.tsx:27
+msgid "2"
+msgstr "2"
 
 #: src/helpers/hooks/useQuestions.tsx:110
-msgid "2-3"
-msgstr "2-3"
+#~ msgid "2-3"
+#~ msgstr "2-3"
 
 #: src/helpers/hooks/useQuestions.tsx:14
-msgid "21-29 лет"
-msgstr "21-29 yosh"
+#~ msgid "21-29 лет"
+#~ msgstr "21-29 yosh"
+
+#: src/helpers/hooks/useQuestions.tsx:13
+msgid "21-40 лет"
+msgstr "21-40 yosh"
 
 #: src/helpers/hooks/useQuestions.tsx:188
-msgid "25-33 секунды"
-msgstr "25-33 soniya"
+#~ msgid "25-33 секунды"
+#~ msgstr "25-33 soniya"
 
-#: src/helpers/hooks/useQuestions.tsx:110
+#: src/helpers/hooks/useQuestions.tsx:27
 msgid "3 и более"
 msgstr "3 yoki undan ko'p"
 
-#: src/helpers/hooks/useQuestions.tsx:196
-msgid "300 - 200"
-msgstr "300 - 200"
+#: src/helpers/hooks/useQuestions.tsx:20
+msgid "3-4"
+msgstr "3-4"
 
 #: src/helpers/hooks/useQuestions.tsx:196
-msgid "400 – 300"
-msgstr "400 - 300"
+#~ msgid "300 - 200"
+#~ msgstr "300 - 200"
 
-#: src/helpers/hooks/useQuestions.tsx:23
+#: src/helpers/hooks/useQuestions.tsx:196
+#~ msgid "400 – 300"
+#~ msgstr "400 - 300"
+
+#: src/helpers/hooks/useQuestions.tsx:13
+msgid "41 год и старше"
+msgstr "41 yosh va undan katta"
+
+#: src/helpers/hooks/useQuestions.tsx:58
 msgid "99,0 – 70,0 г/л"
 msgstr "99,0 – 70,0 g/l"
 
 #: src/helpers/hooks/useQuestions.tsx:63
-msgid "Cостояние, при котором масса тела новорождённого значительно превышает норму для текущего возраста"
-msgstr "Yangi tug'ilgan chaqaloqning tana vazni hozirgi yoshi uchun normadan sezilarli darajada oshib ketadigan holat"
+#~ msgid "Cостояние, при котором масса тела новорождённого значительно превышает норму для текущего возраста"
+#~ msgstr "Yangi tug'ilgan chaqaloqning tana vazni hozirgi yoshi uchun normadan sezilarli darajada oshib ketadigan holat"
 
 #~ msgid "Fibrinogen"
 #~ msgstr "Fibrinogen"
 
 #: src/helpers/hooks/useQuestions.tsx:108
-msgid "Аборты или преждевременные роды"
-msgstr "Abort yoki erta tug'ilish"
+#~ msgid "Аборты или преждевременные роды"
+#~ msgstr "Abort yoki erta tug'ilish"
 
 #: src/helpers/hooks/useQuestions.tsx:108
 #~ msgid "Аборты или преждевременные роды в анамнезе"
@@ -73,74 +97,90 @@ msgstr "Abort yoki erta tug'ilish"
 #~ msgstr "Faollashtirilgan qisman tromboplastin vaqti"
 
 #: src/helpers/hooks/useQuestions.tsx:185
-msgid "Активированное частичное тромбопластиновое время. Используется для определения скорости образования сгустка крови, оценка внутреннего пути свертывания крови. Проверьте коагулограмму"
-msgstr "Faollashtirilgan qisman tromboplastin vaqti. Qon ivishining ichki yo'lini baholash, qon ivishi tezligini aniqlash uchun ishlatiladi. Koagulogrmmani tekshiring"
+#~ msgid "Активированное частичное тромбопластиновое время. Используется для определения скорости образования сгустка крови, оценка внутреннего пути свертывания крови. Проверьте коагулограмму"
+#~ msgstr "Faollashtirilgan qisman tromboplastin vaqti. Qon ivishining ichki yo'lini baholash, qon ivishi tezligini aniqlash uchun ishlatiladi. Koagulogrmmani tekshiring"
 
 #: src/helpers/hooks/useResult.ts:19
 #: src/helpers/hooks/useResult.ts:43
-msgid "Акушерская тактика по ведению беременности и план родов выбирается исходя из акушерской ситуации и состояния плода. Необходим тщательный клинико-лабораторный мониторинг с применением профилактических мероприятий (лечение анемии легкой степени, витаминно-микронутриентная терапия, санация инфекционных очагов, профилактика  возможных гестационных осложнений."
-msgstr "Homiladorlikni boshqarish bo‘yicha akusherlik taktikasi va tug‘ilish rejasi akusherlik holati va homilaning holatidan kelib chiqqan holda tanlanadi. Profilaktik choralarni qo‘llagan holda diqqat bilan klinik va laboratoriya monitoringini o‘tkazish zarur (engil anemiyani davolash, vitamin va mikronutrient terapiyasi, yuqumli o‘choqlarni sanitariya qilish, homiladorlikning mumkin bo‘lgan asoratlarining oldini olish."
+#~ msgid "Акушерская тактика по ведению беременности и план родов выбирается исходя из акушерской ситуации и состояния плода. Необходим тщательный клинико-лабораторный мониторинг с применением профилактических мероприятий (лечение анемии легкой степени, витаминно-микронутриентная терапия, санация инфекционных очагов, профилактика  возможных гестационных осложнений."
+#~ msgstr "Homiladorlikni boshqarish bo‘yicha akusherlik taktikasi va tug‘ilish rejasi akusherlik holati va homilaning holatidan kelib chiqqan holda tanlanadi. Profilaktik choralarni qo‘llagan holda diqqat bilan klinik va laboratoriya monitoringini o‘tkazish zarur (engil anemiyani davolash, vitamin va mikronutrient terapiyasi, yuqumli o‘choqlarni sanitariya qilish, homiladorlikning mumkin bo‘lgan asoratlarining oldini olish."
+
+#: src/helpers/hooks/useQuestions.tsx:53
+msgid "Анемия"
+msgstr "Anemiya"
 
 #: src/helpers/hooks/useQuestions.tsx:184
-msgid "АЧТВ"
-msgstr "ACTV"
+#~ msgid "АЧТВ"
+#~ msgstr "ACTV"
 
 #: src/helpers/hooks/useQuestions.tsx:204
-msgid "Без нарушения кровообращения"
-msgstr "Qon aylanishining buzilishisiz"
+#~ msgid "Без нарушения кровообращения"
+#~ msgstr "Qon aylanishining buzilishisiz"
 
 #: src/helpers/hooks/useQuestions.tsx:148
 #~ msgid "Без нарушения функции"
 #~ msgstr "Funktsiyaning buzilishisiz"
 
 #: src/helpers/hooks/useQuestions.tsx:148
-msgid "Без нарушения функции почек"
-msgstr "Buyrak funktsiyasining buzilishisiz"
+#~ msgid "Без нарушения функции почек"
+#~ msgstr "Buyrak funktsiyasining buzilishisiz"
 
 #: src/helpers/hooks/useQuestions.tsx:167
-msgid "Без эндотелиальной дисфункции"
-msgstr "O'ktir endotelial disfunksiya belgilari bilan"
+#~ msgid "Без эндотелиальной дисфункции"
+#~ msgstr "O'ktir endotelial disfunksiya belgilari bilan"
 
 #: src/helpers/hooks/useResult.ts:35
-msgid "Беременные с такой суммой баллов по факторам риска  должны находиться под особым диспансерным наблюдением в специально сформированной  группе.  Необходимо проведение усиленного лабораторного мониторинга, лечение в стационаре в критических  сроках беременности (госпитализация не менее 4-5 раз), проведение лечения основных заболеваний и осложнений гестации с участием узких специалистов и для решения вопроса об акушерской тактике.  План родов выбирается в зависимости от акушерской ситуации, однако, более предпочтительно оперативное родоразрешение путем кесарева сечения."
-msgstr "Xavf omillari bo'yicha bunday ballga ega bo'lgan homilador ayollar maxsus tuzilgan guruhda maxsus dispanser kuzatuvida bo'lishi kerak. Kuchli laboratoriya monitoringini o'tkazish, homiladorlikning muhim bosqichlarida statsionar davolanish (kamida 4-5 marta kasalxonaga yotqizish), asosiy kasalliklar va homiladorlik asoratlarini tor mutaxassislar ishtirokida davolash va akusherlik holatiga qarab tanlangan tug'ilish muammosini hal qilish kerak. Biroq, sezaryen bilan jarrohlik tug'ish afzalroqdir."
+#~ msgid "Беременные с такой суммой баллов по факторам риска  должны находиться под особым диспансерным наблюдением в специально сформированной  группе.  Необходимо проведение усиленного лабораторного мониторинга, лечение в стационаре в критических  сроках беременности (госпитализация не менее 4-5 раз), проведение лечения основных заболеваний и осложнений гестации с участием узких специалистов и для решения вопроса об акушерской тактике.  План родов выбирается в зависимости от акушерской ситуации, однако, более предпочтительно оперативное родоразрешение путем кесарева сечения."
+#~ msgstr "Xavf omillari bo'yicha bunday ballga ega bo'lgan homilador ayollar maxsus tuzilgan guruhda maxsus dispanser kuzatuvida bo'lishi kerak. Kuchli laboratoriya monitoringini o'tkazish, homiladorlikning muhim bosqichlarida statsionar davolanish (kamida 4-5 marta kasalxonaga yotqizish), asosiy kasalliklar va homiladorlik asoratlarini tor mutaxassislar ishtirokida davolash va akusherlik holatiga qarab tanlangan tug'ilish muammosini hal qilish kerak. Biroq, sezaryen bilan jarrohlik tug'ish afzalroqdir."
+
+#: src/helpers/hooks/useQuestions.tsx:147
+msgid "Более 1 пачки в день"
+msgstr "Kuniga 1 pachkadan ko'p"
 
 #: src/helpers/hooks/useQuestions.tsx:22
-msgid "Более 100 г/л"
-msgstr "100 g/l dan ortiq"
-
-#: src/helpers/hooks/useQuestions.tsx:77
-msgid "Более 2000 мл"
-msgstr "2000 ml dan ortiq"
-
-#: src/helpers/hooks/useQuestions.tsx:36
-msgid "Более 30 кг/м²"
-msgstr "30 kg/m² dan ortiq"
-
-#: src/helpers/hooks/useQuestions.tsx:189
-msgid "Более 33 секунд"
-msgstr "33 sekunddan ortiq"
-
-#: src/helpers/hooks/useQuestions.tsx:84
-msgid "Более 4 родов"
-msgstr "4 dan ortiq"
-
-#: src/helpers/hooks/useQuestions.tsx:67
-msgid "Более 4500 грамм"
-msgstr "4500 gramdan ortiq"
+#~ msgid "Более 100 г/л"
+#~ msgstr "100 g/l dan ortiq"
 
 #: src/helpers/hooks/useQuestions.tsx:57
-msgid "Более 5000 грамм"
-msgstr "5000 gramdan ortiq"
+msgid "Более 100,0 г/л"
+msgstr "100,0 g/l dan yuqori"
+
+#: src/helpers/hooks/useQuestions.tsx:77
+#~ msgid "Более 2000 мл"
+#~ msgstr "2000 ml dan ortiq"
+
+#: src/helpers/hooks/useQuestions.tsx:36
+#~ msgid "Более 30 кг/м²"
+#~ msgstr "30 kg/m² dan ortiq"
+
+#: src/helpers/hooks/useQuestions.tsx:189
+#~ msgid "Более 33 секунд"
+#~ msgstr "33 sekunddan ortiq"
+
+#: src/helpers/hooks/useQuestions.tsx:20
+msgid "Более 4"
+msgstr "4 dan ko'p"
+
+#: src/helpers/hooks/useQuestions.tsx:84
+#~ msgid "Более 4 родов"
+#~ msgstr "4 dan ortiq"
+
+#: src/helpers/hooks/useQuestions.tsx:67
+#~ msgid "Более 4500 грамм"
+#~ msgstr "4500 gramdan ortiq"
+
+#: src/helpers/hooks/useQuestions.tsx:57
+#~ msgid "Более 5000 грамм"
+#~ msgstr "5000 gramdan ortiq"
 
 #: src/helpers/hooks/useResult.ts:20
 #: src/helpers/hooks/useResult.ts:44
-msgid "В родах применяется активное ведение 3 периода и профилактика кровотечения с применением Окситоцина в дозировках, соответствующих национальным стандартам. Окситоцин 2мл (10 ЕД.) в/м на боковую поверхность бедра в момент рождения плечиков плода. Или Карбетоцин (Пабал) 1 мл. в/м сразу после рождения последа."
-msgstr "Tug'ilish paytida 3-bosqichni faol boshqarish va qon ketishining oldini olish uchun Oksitotsin bilan milliy standartlarga mos dozalarda qo'llaniladi. Oksitotsin 2 ml (10 U) homila yelkalari tug'ilganda sonning lateral yuzasiga mushak ichiga. Yoki Karbetotsin (Pabal) tug'ilgandan keyin darhol 1 ml."
+#~ msgid "В родах применяется активное ведение 3 периода и профилактика кровотечения с применением Окситоцина в дозировках, соответствующих национальным стандартам. Окситоцин 2мл (10 ЕД.) в/м на боковую поверхность бедра в момент рождения плечиков плода. Или Карбетоцин (Пабал) 1 мл. в/м сразу после рождения последа."
+#~ msgstr "Tug'ilish paytida 3-bosqichni faol boshqarish va qon ketishining oldini olish uchun Oksitotsin bilan milliy standartlarga mos dozalarda qo'llaniladi. Oksitotsin 2 ml (10 U) homila yelkalari tug'ilganda sonning lateral yuzasiga mushak ichiga. Yoki Karbetotsin (Pabal) tug'ilgandan keyin darhol 1 ml."
 
 #: src/helpers/hooks/useQuestions.tsx:200
-msgid "Варикозная болезнь"
-msgstr "Varikoz"
+#~ msgid "Варикозная болезнь"
+#~ msgstr "Varikoz"
 
 #: src/components/BmiCalculator.tsx:36
 #: src/components/BmiCalculator.tsx:42
@@ -151,101 +191,161 @@ msgstr "Og'irligi (kg)"
 #~ msgid "Вес плода"
 #~ msgstr "Meva vazni"
 
-#: src/helpers/hooks/useQuestions.tsx:11
+#: src/helpers/hooks/useQuestions.tsx:136
+msgid "ВИЧ-инфицирование"
+msgstr "OIV-infeksiyasi"
+
+#: src/helpers/hooks/useQuestions.tsx:10
 msgid "Возраст"
 msgstr "Yosh"
 
+#: src/helpers/hooks/useQuestions.tsx:75
+msgid "Воспалительные заболевания матки и придатков"
+msgstr "Bachadon va qo'shimchalarning yallig'lanish kasalliklari"
+
 #: src/helpers/hooks/useQuestions.tsx:154
-msgid "Воспалительные заболевания половых органов"
-msgstr "Poloviy organlar vositalari"
+#~ msgid "Воспалительные заболевания половых органов"
+#~ msgstr "Poloviy organlar vositalari"
+
+#: src/helpers/hooks/useQuestions.tsx:114
+msgid "ВПЧ 16 и 18 типа"
+msgstr "VPH 16 va 18 turi"
 
 #: src/pages/Select.tsx:36
 msgid "Врач"
 msgstr "Doktor"
 
+#: src/helpers/hooks/useQuestions.tsx:130
+msgid "Вторичная иммуносупрессия"
+msgstr "Ikkilamchi immunosupressiya"
+
+#: src/helpers/hooks/useQuestions.tsx:131
+msgid "Вторичная иммуносупрессия — это ослабление иммунитета из-за других заболеваний или инфекций. Оцените, есть ли у вас такие состояния."
+msgstr "Ikkilamchi immunosupressiya — boshqa kasalliklar yoki infeksiyalar sabab immunitetning pasayishidir. Sizda shunday holatlar bor-yo‘qligini baholang."
+
+#: src/helpers/hooks/useQuestions.tsx:87
+msgid "Выберите вариант, который лучше описывает вашу сексуальную жизнь."
+msgstr "Jinsiy hayotingizni eng yaxshi ifodalovchi variantni tanlang."
+
 #: src/helpers/hooks/useResult.ts:33
-msgid "Высокая степень риска акушерского кровотечения"
-msgstr "Akusherlik qon ketishining yuqori xavfi"
+#~ msgid "Высокая степень риска акушерского кровотечения"
+#~ msgstr "Akusherlik qon ketishining yuqori xavfi"
+
+#: src/helpers/hooks/useResult.ts:33
+msgid "Высокая степень риска развития ЦИН и РШМ"
+msgstr "CIN va bachadon bo'yni saratoni rivojlanishining yuqori xavfi"
 
 #: src/helpers/hooks/useQuestions.tsx:18
-msgid "Гемоглобин"
-msgstr "Gemoglobin"
+#~ msgid "Гемоглобин"
+#~ msgstr "Gemoglobin"
 
 #: src/helpers/hooks/useQuestions.tsx:115
-msgid "Гипертензивный синдром - это состояние повышенного артериального давления во время беременности (систолического АД ≥ 140 мм рту ст. и/или диастолического АД ≥ 90 мм рт. ст.). Преэклампсия — это состояние повышенного артериального давления (более 140/90 мм рт. ст.) после 20-й недели беременности, наличие белка в моче"
-msgstr "Gipertenzivnyy sindrom - bu sostoyanie povyshennogo arterialnogo davleniya vo vremya beremennosti (sistolicheskogo AD ≥ 140 mm rtu st. va/yoki diastolicheskogo AD ≥ 90 mm rt. st.). Preeklampsiya — eto sostoyanie povyshennogo arterialnogo davleniya (bolee 140/90 mm rt. st.) keyin 20-y nedeli beremennosti, nalichie belka v moche"
+#~ msgid "Гипертензивный синдром - это состояние повышенного артериального давления во время беременности (систолического АД ≥ 140 мм рту ст. и/или диастолического АД ≥ 90 мм рт. ст.). Преэклампсия — это состояние повышенного артериального давления (более 140/90 мм рт. ст.) после 20-й недели беременности, наличие белка в моче"
+#~ msgstr "Gipertenzivnyy sindrom - bu sostoyanie povyshennogo arterialnogo davleniya vo vremya beremennosti (sistolicheskogo AD ≥ 140 mm rtu st. va/yoki diastolicheskogo AD ≥ 90 mm rt. st.). Preeklampsiya — eto sostoyanie povyshennogo arterialnogo davleniya (bolee 140/90 mm rt. st.) keyin 20-y nedeli beremennosti, nalichie belka v moche"
 
 #: src/helpers/hooks/useQuestions.tsx:114
-msgid "Гипертензивный синдром, преэклампсия"
-msgstr "Gipertenziv sindrom, preeklampsiya"
+#~ msgid "Гипертензивный синдром, преэклампсия"
+#~ msgstr "Gipertenziv sindrom, preeklampsiya"
+
+#: src/helpers/hooks/useQuestions.tsx:97
+msgid "Гормональные нарушения"
+msgstr "Gormonal buzilishlar"
 
 #: src/helpers/hooks/useQuestions.tsx:195
-msgid "Грамм на литр крови"
-msgstr "Gramm na litr krov"
+#~ msgid "Грамм на литр крови"
+#~ msgstr "Gramm na litr krov"
+
+#: src/helpers/hooks/useQuestions.tsx:103
+msgid "Длительное (более 3-4 лет) применение эстрогенсодержащих препаратов"
+msgstr "Estrogen saqlovchi preparatlarni uzoq muddat (3-4 yildan ko'proq) qo'llash"
 
 #: src/helpers/hooks/useResult.ts:36
-msgid "Для профилактики кровотечения рекомендуется в/в медленное введение 1 мл(5ЕД) Окситоцина или Пабала - 1 мл (100 мкг.) сразу после извлечения ребенка и перевязка 3 пар сосудов (круглых связок, a. Uterina, a. ovarica) путём наложения узловатых швов на боковые стенки матки на 2 см. ниже операционного разреза и в области трубных углов матки с захватом мышечной массы матки и собственной связки яичника с обеих сторон с использованием рассасывающихся синтетических  нитей"
-msgstr "Qon ketishining oldini olish uchun chaqaloq chiqarilgandan so'ng darhol 1 ml (5 U) Oksitotsin yoki Pabal - 1 ml (100 mkg) tomir ichiga yuborish va 3 juft tomirlarni (dumaloq ligamentlar, a. Bachadon, a. tuxumdonlar) bog'lash, 2 lateral devorga kesilgan devorni qo'yish tavsiya etiladi. jarrohlik kesma va bachadonning tubal burchaklari sohasida bachadon mushak massasini ushlash va so'rilishi mumkin bo'lgan sintetik iplar yordamida ikkala tomondan tuxumdonning to'g'ri bog'lanishi "
+#~ msgid "Для профилактики кровотечения рекомендуется в/в медленное введение 1 мл(5ЕД) Окситоцина или Пабала - 1 мл (100 мкг.) сразу после извлечения ребенка и перевязка 3 пар сосудов (круглых связок, a. Uterina, a. ovarica) путём наложения узловатых швов на боковые стенки матки на 2 см. ниже операционного разреза и в области трубных углов матки с захватом мышечной массы матки и собственной связки яичника с обеих сторон с использованием рассасывающихся синтетических  нитей"
+#~ msgstr "Qon ketishining oldini olish uchun chaqaloq chiqarilgandan so'ng darhol 1 ml (5 U) Oksitotsin yoki Pabal - 1 ml (100 mkg) tomir ichiga yuborish va 3 juft tomirlarni (dumaloq ligamentlar, a. Bachadon, a. tuxumdonlar) bog'lash, 2 lateral devorga kesilgan devorni qo'yish tavsiya etiladi. jarrohlik kesma va bachadonning tubal burchaklari sohasida bachadon mushak massasini ushlash va so'rilishi mumkin bo'lgan sintetik iplar yordamida ikkala tomondan tuxumdonning to'g'ri bog'lanishi "
+
+#: src/helpers/hooks/useQuestions.tsx:146
+msgid "До 1 пачки в день"
+msgstr "Kuniga 1 pachkagacha"
 
 #: src/helpers/hooks/useQuestions.tsx:75
-msgid "До 1500 мл"
-msgstr "1500 ml gacha"
+#~ msgid "До 1500 мл"
+#~ msgstr "1500 ml gacha"
 
 #: src/helpers/hooks/useQuestions.tsx:14
-msgid "До 19 лет"
-msgstr "19 yoshgacha"
+#~ msgid "До 19 лет"
+#~ msgstr "19 yoshgacha"
+
+#: src/helpers/hooks/useQuestions.tsx:20
+msgid "До 2"
+msgstr "2 gacha"
+
+#: src/helpers/hooks/useQuestions.tsx:13
+msgid "До 20 лет"
+msgstr "20 yoshgacha"
 
 #: src/helpers/hooks/useQuestions.tsx:84
-msgid "До 3 родов"
-msgstr "3 tagacha tug'ilish"
+#~ msgid "До 3 родов"
+#~ msgstr "3 tagacha tug'ilish"
 
 #: src/helpers/hooks/useQuestions.tsx:188
 #~ msgid "До 33 секунд"
 #~ msgstr "33 soniyagacha"
 
 #: src/helpers/hooks/useQuestions.tsx:65
-msgid "До 4000 грамм"
-msgstr "4000 grammgacha"
+#~ msgid "До 4000 грамм"
+#~ msgstr "4000 grammgacha"
+
+#: src/helpers/hooks/useQuestions.tsx:64
+msgid "Доброкачественные заболевания шейки матки"
+msgstr "Bachadon bo'yni yaxshi sifatli kasalliklari"
 
 #: src/helpers/hooks/useQuestions.tsx:102
 #~ msgid "Единичный узел до 5 см"
 #~ msgstr "5 sm gacha bo'lgan yagona tugun"
 
 #: src/helpers/hooks/useQuestions.tsx:102
-msgid "Единичный узел миомы до 5 см"
-msgstr "5 sm gacha bo'lgan miomaning yagona tuguni"
+#~ msgid "Единичный узел миомы до 5 см"
+#~ msgstr "5 sm gacha bo'lgan miomaning yagona tuguni"
 
 #: src/helpers/hooks/useQuestions.tsx:46
-msgid "Заболевание без нарушения функции"
-msgstr "Disfunktsiyasiz kasallik"
+#~ msgid "Заболевание без нарушения функции"
+#~ msgstr "Disfunktsiyasiz kasallik"
 
 #: src/helpers/hooks/useQuestions.tsx:41
-msgid "Заболевания печени"
-msgstr "Jigar kasalliklari"
+#~ msgid "Заболевания печени"
+#~ msgstr "Jigar kasalliklari"
 
 #: src/helpers/hooks/useQuestions.tsx:144
-msgid "Заболевания почек"
-msgstr "Buyrak kasalliklari"
+#~ msgid "Заболевания почек"
+#~ msgstr "Buyrak kasalliklari"
 
 #: src/helpers/hooks/useQuestions.tsx:47
-msgid "Заболевания с нарушением функции"
-msgstr "Disfunktsiyasi bo'lgan kasalliklar"
+#~ msgid "Заболевания с нарушением функции"
+#~ msgstr "Disfunktsiyasi bo'lgan kasalliklar"
 
 #: src/helpers/hooks/useQuestions.tsx:134
-msgid "Заболевания сердечно-сосудистой системы"
-msgstr "Yurak-qon tomir kasalliklari"
+#~ msgid "Заболевания сердечно-сосудистой системы"
+#~ msgstr "Yurak-qon tomir kasalliklari"
+
+#: src/helpers/hooks/useQuestions.tsx:90
+msgid "Защищенный половой акт и 1 партнер"
+msgstr "Himoyalangan aloqa va 1 hamkor"
+
+#: src/helpers/hooks/useQuestions.tsx:37
+msgid "Значительные"
+msgstr "Sezilarli"
 
 #: src/helpers/hooks/useQuestions.tsx:165
 #~ msgid "Идиопатический легочный фиброз, фиброзирующий альвеолит при диффузных заболеваниях соединительной ткани, саркоидоз лёгких, экзогенный аллергический альвеолит, ХОБЛ, COVID-19, легочная артериальная гипертензия"
 #~ msgstr "Idiopatik o‘pka fibrozi, diffuz biriktiruvchi to‘qima kasalliklarida fibrozlovchi alveolit, o‘pka sarkoidozi, ekzogen allergik alveolit, KOAH, COVID-19, o‘pka arterial gipertenziyasi"
 
 #: src/helpers/hooks/useQuestions.tsx:138
-msgid "Имеются, но без недостаточности кровообращения"
-msgstr "Mavjud, ammo qon aylanishining buzilishisiz"
+#~ msgid "Имеются, но без недостаточности кровообращения"
+#~ msgstr "Mavjud, ammo qon aylanishining buzilishisiz"
 
 #: src/helpers/hooks/useQuestions.tsx:29
-msgid "ИМТ"
-msgstr "BMI"
+#~ msgid "ИМТ"
+#~ msgstr "BMI"
 
 #: src/helpers/hooks/useQuestions.tsx:43
 #~ msgid "Какие заболевания есть у пациента?"
@@ -256,56 +356,64 @@ msgstr "BMI"
 #~ msgstr "Sizda qanday kasalliklar bor?"
 
 #: src/helpers/hooks/useQuestions.tsx:30
-msgid "Какой ваш индекс массы тела?"
-msgstr "Sizning tana massasi indeksingiz nima?"
+#~ msgid "Какой ваш индекс массы тела?"
+#~ msgstr "Sizning tana massasi indeksingiz nima?"
 
 #: src/helpers/hooks/useQuestions.tsx:19
-msgid "Какой у ваc гемоглобин в крови?"
-msgstr "Qoningizdagi gemoglobin darajasi qanday?"
+#~ msgid "Какой у ваc гемоглобин в крови?"
+#~ msgstr "Qoningizdagi gemoglobin darajasi qanday?"
 
 #: src/types/Question.ts:24
 #~ msgid "Какой у вам гемоглобин в крови?"
 #~ msgstr "Qoningizda gemoglobin darajasi qanday?"
 
+#: src/helpers/hooks/useQuestions.tsx:54
+msgid "Какой у вас уровень гемоглобина?"
+msgstr "Gemoglobin darajangiz qanday?"
+
 #: src/helpers/hooks/useQuestions.tsx:20
-msgid "Какой у пациента гемоглобин в крови?"
-msgstr "Bemorning qondagi gemoglobin darajasi qanday?"
+#~ msgid "Какой у пациента гемоглобин в крови?"
+#~ msgstr "Bemorning qondagi gemoglobin darajasi qanday?"
 
 #: src/helpers/hooks/useQuestions.tsx:31
-msgid "Какой у пациента индекс массы тела?"
-msgstr "Bemorning tana massasi indeksi qanday?"
+#~ msgid "Какой у пациента индекс массы тела?"
+#~ msgstr "Bemorning tana massasi indeksi qanday?"
 
 #: src/helpers/hooks/useQuestions.tsx:175
 #~ msgid "Клеток на литр крови"
 #~ msgstr "Har litr qon uchun hujayralar"
 
 #: src/helpers/hooks/useQuestions.tsx:175
-msgid "Клеток на литр крови в анализе крови"
-msgstr "Qon tahlilida har litr qon uchun hujayralar"
+#~ msgid "Клеток на литр крови в анализе крови"
+#~ msgstr "Qon tahlilida har litr qon uchun hujayralar"
 
 #: src/helpers/hooks/useQuestions.tsx:83
 #~ msgid "Количество родов"
 #~ msgstr "Tug‘ilganlar soni"
 
 #: src/helpers/hooks/useQuestions.tsx:88
-msgid "Кровотечения"
-msgstr "Qon ketish"
+#~ msgid "Кровотечения"
+#~ msgstr "Qon ketish"
 
 #: src/helpers/hooks/useQuestions.tsx:89
-msgid "Кровотечения - излитие крови при беременности, родах, либо в послеродовый период. Укажите, когда это кровотечение было:"
-msgstr "Qon ketish - homiladorlik, tug'ruq yoki tug'ruqdan keyingi davrda qon oqishi. Qon ketish qachon bo'lganini ko'rsating:"
+#~ msgid "Кровотечения - излитие крови при беременности, родах, либо в послеродовый период. Укажите, когда это кровотечение было:"
+#~ msgstr "Qon ketish - homiladorlik, tug'ruq yoki tug'ruqdan keyingi davrda qon oqishi. Qon ketish qachon bo'lganini ko'rsating:"
 
 #: src/helpers/hooks/useQuestions.tsx:88
 #~ msgid "Кровотечения в родах"
 #~ msgstr "Tug'ruq paytida qon ketish"
 
-#: src/helpers/hooks/useQuestions.tsx:118
+#: src/helpers/hooks/useQuestions.tsx:36
 msgid "Легкой степени"
 msgstr "Yengil"
 
+#: src/helpers/hooks/useQuestions.tsx:70
+msgid "Лейкоплакия, эритроплакия"
+msgstr "Leykoplakiya, eritroplakiya"
+
 #: src/pages/Result.tsx:31
-msgid "Лечение"
-msgstr "Davolash"
+#~ msgid "Лечение"
+#~ msgstr "Davolash"
 
 #: src/helpers/hooks/useQuestions.tsx:89
 #~ msgid "Любого характера"
@@ -316,101 +424,129 @@ msgstr "Davolash"
 #~ msgstr "Qon tomirlari yoki yurak bilan bog'liq har qanday kasalliklar"
 
 #: src/helpers/hooks/useQuestions.tsx:62
-msgid "Макросомия плода (крупный плод)"
-msgstr "Homilaning makrosomiyasi (yirik homila)"
+#~ msgid "Макросомия плода (крупный плод)"
+#~ msgstr "Homilaning makrosomiyasi (yirik homila)"
 
 #: src/helpers/hooks/useQuestions.tsx:179
-msgid "Менее 150 × 10⁹"
-msgstr "150 × 10⁹ dan kam"
+#~ msgid "Менее 150 × 10⁹"
+#~ msgstr "150 × 10⁹ dan kam"
 
 #: src/helpers/hooks/useQuestions.tsx:196
-msgid "Менее 200"
-msgstr "200 dan kam"
+#~ msgid "Менее 200"
+#~ msgstr "200 dan kam"
 
 #: src/helpers/hooks/useQuestions.tsx:55
-msgid "Менее 4500 грамм"
-msgstr "4500 grammdan kam"
+#~ msgid "Менее 4500 грамм"
+#~ msgstr "4500 grammdan kam"
 
-#: src/helpers/hooks/useQuestions.tsx:24
+#: src/helpers/hooks/useQuestions.tsx:59
 msgid "Менее 69,0 г/л"
 msgstr "69,0 g/l dan kam"
+
+#: src/helpers/hooks/useQuestions.tsx:48
+msgid "Микст 2-3 и более инфекций"
+msgstr "Mikst 2-3 va undan ortiq infeksiya"
 
 #: src/helpers/hooks/useQuestions.tsx:98
 #~ msgid "Миома или рубец на матке"
 #~ msgstr "Bachadondagi mioma yoki chandiq"
 
 #: src/helpers/hooks/useQuestions.tsx:98
-msgid "Миома матки"
-msgstr "Bachadon miomasi"
+#~ msgid "Миома матки"
+#~ msgstr "Bachadon miomasi"
 
 #: src/helpers/hooks/useQuestions.tsx:99
 #~ msgid "Миома это доброкачественная опухоль, происходящая из гладкомышечных клеток шейки или тела матки"
 #~ msgstr "Mioma - bachadon bo'yni yoki bachadon tanasining silliq mushak hujayralaridan kelib chiqadigan yaxshi xulqli o'sma"
 
 #: src/helpers/hooks/useQuestions.tsx:99
-msgid "Миома это доброкачественная опухоль, происходящая из клеток шейки или тела матки. Рубец на матке может формироваться после хирургических вмешательств"
-msgstr "Mioma - bachadon bo'yni yoki bachadon tanasining hujayralaridan kelib chiqadigan yaxshi xulqli o'sma. Bachadondagi chandiq jarrohlik aralashuvlaridan keyin shakllanishi mumkin"
+#~ msgid "Миома это доброкачественная опухоль, происходящая из клеток шейки или тела матки. Рубец на матке может формироваться после хирургических вмешательств"
+#~ msgstr "Mioma - bachadon bo'yni yoki bachadon tanasining hujayralaridan kelib chiqadigan yaxshi xulqli o'sma. Bachadondagi chandiq jarrohlik aralashuvlaridan keyin shakllanishi mumkin"
 
 #: src/helpers/hooks/useQuestions.tsx:72
-msgid "Многоводие"
-msgstr "Poligidramnioz"
+#~ msgid "Многоводие"
+#~ msgstr "Poligidramnioz"
 
 #: src/helpers/hooks/useQuestions.tsx:73
-msgid "Многоводие — это состояние, при котором объем околоплодных вод превышает норму для данного срока беременности. Укажите объем жидкости:"
-msgstr "Poligidramnioz - homiladorlikning ushbu muddati uchun amniotik suyuqlik hajmi normadan oshib ketadigan holat. Suyuqlik hajmini ko'rsating:"
+#~ msgid "Многоводие — это состояние, при котором объем околоплодных вод превышает норму для данного срока беременности. Укажите объем жидкости:"
+#~ msgstr "Poligidramnioz - homiladorlikning ushbu muddati uchun amniotik suyuqlik hajmi normadan oshib ketadigan holat. Suyuqlik hajmini ko'rsating:"
 
 #: src/helpers/hooks/useQuestions.tsx:52
-msgid "Многоплодие"
-msgstr "Ko'p homiladorlik"
+#~ msgid "Многоплодие"
+#~ msgstr "Ko'p homiladorlik"
 
 #: src/helpers/hooks/useQuestions.tsx:53
-msgid "Многоплодность  - беременность, при которой женщина беременна не одним плодом, а двумя и более. Выберете общую массу плодов:"
-msgstr "Ko'p homiladorlik - ayol bir emas, balki ikki yoki undan ortiq homila bilan homilador bo'lgan homiladorlik. Homilalarning umumiy massasini tanlang:"
+#~ msgid "Многоплодность  - беременность, при которой женщина беременна не одним плодом, а двумя и более. Выберете общую массу плодов:"
+#~ msgstr "Ko'p homiladorlik - ayol bir emas, balki ikki yoki undan ortiq homila bilan homilador bo'lgan homiladorlik. Homilalarning umumiy massasini tanlang:"
 
 #: src/helpers/hooks/useQuestions.tsx:82
-msgid "Многорожавшие"
-msgstr "Multiparous"
+#~ msgid "Многорожавшие"
+#~ msgstr "Multiparous"
 
 #: src/helpers/hooks/useQuestions.tsx:83
-msgid "Многорожавшие — женщины, родившие более одного ребенка. Укажите количество родов:"
-msgstr "Ko'p tug'gan ayollar - bir nechta bola tug'gan ayollar. Tug'ilishlar sonini ko'rsating:"
+#~ msgid "Многорожавшие — женщины, родившие более одного ребенка. Укажите количество родов:"
+#~ msgstr "Ko'p tug'gan ayollar - bir nechta bola tug'gan ayollar. Tug'ilishlar sonini ko'rsating:"
 
 #: src/helpers/hooks/useQuestions.tsx:103
 #~ msgid "Множественные узлы более 5см или после кесарева сечения"
 #~ msgstr "5 sm dan ortiq yoki sezaryen keyin bir nechta tugunlar"
 
 #: src/helpers/hooks/useQuestions.tsx:103
-msgid "Множественные узлы миомы более 5см или после кесарева сечения"
-msgstr "5 sm dan ortiq miomaning bir nechta tugunlari yoki sezaryen keyin"
+#~ msgid "Множественные узлы миомы более 5см или после кесарева сечения"
+#~ msgstr "5 sm dan ortiq miomaning bir nechta tugunlari yoki sezaryen keyin"
 
 #: src/helpers/hooks/useQuestions.tsx:135
-msgid "Напирмер: ишемическая болезнь сердца (ИБС), инфаркт миокарда, инсульт, аритмия, сердечная недостаточность и пороки сердца. Недостаточность кровообращения — это состояние, при котором сердце не может обеспечить органы и ткани необходимым объемом крови"
-msgstr "Masalan: yurak ishemik kasalligi (YIK), miokard infarkti, insult, aritmiya, yurak yetishmovchiligi va yurak nuqsonlari. Qon aylanish yetishmovchiligi - yurak organlar va to'qimalarga zarur qon hajmini ta'minlay olmaydigan holat"
+msgid "На фоне воспалительных и вирусно-бактериальных процессов"
+msgstr "Yallig'lanish va virus-bakterial jarayonlar fonida"
+
+#: src/helpers/hooks/useQuestions.tsx:119
+msgid "Наличие ЦИН по ПАП-тесту"
+msgstr "PAP-test bo'yicha CIN mavjudligi"
+
+#: src/helpers/hooks/useQuestions.tsx:135
+#~ msgid "Напирмер: ишемическая болезнь сердца (ИБС), инфаркт миокарда, инсульт, аритмия, сердечная недостаточность и пороки сердца. Недостаточность кровообращения — это состояние, при котором сердце не может обеспечить органы и ткани необходимым объемом крови"
+#~ msgstr "Masalan: yurak ishemik kasalligi (YIK), miokard infarkti, insult, aritmiya, yurak yetishmovchiligi va yurak nuqsonlari. Qon aylanish yetishmovchiligi - yurak organlar va to'qimalarga zarur qon hajmini ta'minlay olmaydigan holat"
 
 #: src/helpers/hooks/useQuestions.tsx:145
-msgid "Нарушение функции почек устанавливается при отклонении результатов анализа мочи от нормы"
-msgstr "Buyrak funktsiyasining buzilishi siydik sinovlari natijalari normadan chetga chiqqanda aniqlanadi"
+#~ msgid "Нарушение функции почек устанавливается при отклонении результатов анализа мочи от нормы"
+#~ msgstr "Buyrak funktsiyasining buzilishi siydik sinovlari natijalari normadan chetga chiqqanda aniqlanadi"
+
+#: src/helpers/hooks/useQuestions.tsx:102
+msgid "Нарушенный менструальный цикл, гиперэстрогенемия"
+msgstr "Hayz sikli buzilishi, giperestrogenemiya"
+
+#: src/helpers/hooks/useQuestions.tsx:145
+msgid "Не курит"
+msgstr "Chekmaydi"
 
 #: src/helpers/hooks/useQuestions.tsx:128
-msgid "Не прогрессирующая"
-msgstr "Progressiv emas"
+#~ msgid "Не прогрессирующая"
+#~ msgstr "Progressiv emas"
+
+#: src/helpers/hooks/useQuestions.tsx:91
+msgid "Незащищенная половая жизнь"
+msgstr "Himoyalanmagan jinsiy hayot"
 
 #: src/helpers/hooks/useResult.ts:27
-msgid "Необходим усиленный мониторинг лабораторных анализов, состояния беременной и плода, госпитализация в критические сроки беременности для полного обследования и лечения имеющихся патологий и выбора дальнейшей акушерской тактики."
-msgstr "Mavjud patologiyalarni to'liq tekshirish va davolash va keyingi akusherlik taktikasini tanlash uchun laboratoriya tekshiruvlarini, homilador ayol va homilaning holatini, homiladorlikning muhim bosqichlarida kasalxonaga yotqizishni intensiv monitoring qilish zarur."
+#~ msgid "Необходим усиленный мониторинг лабораторных анализов, состояния беременной и плода, госпитализация в критические сроки беременности для полного обследования и лечения имеющихся патологий и выбора дальнейшей акушерской тактики."
+#~ msgstr "Mavjud patologiyalarni to'liq tekshirish va davolash va keyingi akusherlik taktikasini tanlash uchun laboratoriya tekshiruvlarini, homilador ayol va homilaning holatini, homiladorlikning muhim bosqichlarida kasalxonaga yotqizishni intensiv monitoring qilish zarur."
 
-#: src/helpers/hooks/useQuestions.tsx:45
-#: src/helpers/hooks/useQuestions.tsx:91
+#: src/helpers/hooks/useQuestions.tsx:112
+msgid "Неонкогенные штаммы"
+msgstr "Onkogen bo'lmagan shtammlar"
+
+#: src/helpers/hooks/useQuestions.tsx:92
+msgid "Несколько партнеров"
+msgstr "Bir nechta hamkor"
+
 #: src/helpers/hooks/useQuestions.tsx:101
-#: src/helpers/hooks/useQuestions.tsx:110
-#: src/helpers/hooks/useQuestions.tsx:137
-#: src/helpers/hooks/useQuestions.tsx:203
+#: src/helpers/hooks/useQuestions.tsx:134
 msgid "Нет"
 msgstr "Yo'q"
 
 #: src/helpers/hooks/useQuestions.tsx:147
-msgid "Нет, либо бактерии в моче (бактериурия) без других симптомов"
-msgstr "Yo'q yoki boshqa alomatlar bo'lmagan siydikdagi bakteriyalar (bakteriuriya)"
+#~ msgid "Нет, либо бактерии в моче (бактериурия) без других симптомов"
+#~ msgstr "Yo'q yoki boshqa alomatlar bo'lmagan siydikdagi bakteriyalar (bakteriuriya)"
 
 #: src/helpers/hooks/useQuestions.tsx:147
 #~ msgid "Нет, либо бессимптомная бактериурия"
@@ -418,20 +554,33 @@ msgstr "Yo'q yoki boshqa alomatlar bo'lmagan siydikdagi bakteriyalar (bakteriuri
 
 #: src/helpers/hooks/useResult.ts:17
 #: src/helpers/hooks/useResult.ts:41
-msgid "Низкая степень риска акушерского кровотечения"
-msgstr "Akusherlik qon ketishining past xavfi"
+#~ msgid "Низкая степень риска акушерского кровотечения"
+#~ msgstr "Akusherlik qon ketishining past xavfi"
+
+#: src/helpers/hooks/useResult.ts:17
+#: src/helpers/hooks/useResult.ts:41
+msgid "Низкая степень риска развития ЦИН и РШМ"
+msgstr "CIN va bachadon bo'yni saratoni rivojlanishining past xavfi"
 
 #: src/helpers/hooks/useQuestions.tsx:187
 #~ msgid "Норма"
 #~ msgstr "Norma"
 
 #: src/helpers/hooks/useQuestions.tsx:187
-msgid "Норма - 20-25 секунд и 14-20 секунд (у беременных) "
-msgstr "Norma - 20-25 soniya va 14-20 soniya (homilador ayollarda)"
+#~ msgid "Норма - 20-25 секунд и 14-20 секунд (у беременных) "
+#~ msgstr "Norma - 20-25 soniya va 14-20 soniya (homilador ayollarda)"
+
+#: src/helpers/hooks/useQuestions.tsx:108
+msgid "Носительство ВПЧ инфекции"
+msgstr "VPH infeksiyasi tashuvchiligi"
+
+#: src/pages/Result.tsx:66
+msgid "Обратиться к гинекологу"
+msgstr "Ginekologga murojaat qiling"
 
 #: src/pages/Result.tsx:56
-msgid "Обратиться к специалисту"
-msgstr "Mutaxassis bilan bog'laning"
+#~ msgid "Обратиться к специалисту"
+#~ msgstr "Mutaxassis bilan bog'laning"
 
 #: src/helpers/hooks/useQuestions.tsx:73
 #~ msgid "Объем жидкости"
@@ -442,107 +591,162 @@ msgstr "Mutaxassis bilan bog'laning"
 #~ msgstr "Trombositlar hajmi"
 
 #: src/helpers/hooks/useQuestions.tsx:174
-msgid "Объем тромбоцитов (MPV)"
-msgstr "Trombositlar hajmi (MPV)"
+#~ msgid "Объем тромбоцитов (MPV)"
+#~ msgstr "Trombositlar hajmi (MPV)"
+
+#: src/helpers/hooks/useQuestions.tsx:113
+msgid "Один из онкогенных типов"
+msgstr "Onkogen turlardan biri"
 
 #: src/helpers/hooks/useQuestions.tsx:159
-msgid "Острый эндометрит"
-msgstr "O‘tkir endometrit"
+#~ msgid "Острый эндометрит"
+#~ msgstr "O‘tkir endometrit"
 
 #: src/helpers/hooks/useQuestions.tsx:76
-msgid "От 1500 до 2000 мл"
-msgstr "1500 dan 2000 ml gacha"
+#~ msgid "От 1500 до 2000 мл"
+#~ msgstr "1500 dan 2000 ml gacha"
 
 #: src/helpers/hooks/useQuestions.tsx:34
-msgid "от 18,5 до 25 кг/м²"
-msgstr "18,5 dan 25 kg/m² gacha"
+#~ msgid "от 18,5 до 25 кг/м²"
+#~ msgstr "18,5 dan 25 kg/m² gacha"
 
 #: src/helpers/hooks/useQuestions.tsx:35
-msgid "от 25 до 30 кг/м²"
-msgstr "25 dan 30 kg/m² gacha"
+#~ msgid "от 25 до 30 кг/м²"
+#~ msgstr "25 dan 30 kg/m² gacha"
 
 #: src/helpers/hooks/useQuestions.tsx:84
-msgid "От 3 до 4 родов"
-msgstr "3 dan 4 tagacha tug'ilish"
+#~ msgid "От 3 до 4 родов"
+#~ msgstr "3 dan 4 tagacha tug'ilish"
 
 #: src/helpers/hooks/useQuestions.tsx:66
-msgid "От 4000 до 4500 грамм"
-msgstr "4000 dan 4500 grammgacha"
+#~ msgid "От 4000 до 4500 грамм"
+#~ msgstr "4000 dan 4500 grammgacha"
 
 #: src/helpers/hooks/useQuestions.tsx:56
-msgid "От 4500 до 5000 грамм"
-msgstr "4500 dan 5000 grammgacha"
+#~ msgid "От 4500 до 5000 грамм"
+#~ msgstr "4500 dan 5000 grammgacha"
 
 #: src/helpers/hooks/useQuestions.tsx:127
-msgid "Отсутствует"
-msgstr "Yo'q"
+#~ msgid "Отсутствует"
+#~ msgstr "Yo'q"
 
-#: src/helpers/hooks/useQuestions.tsx:117
-#: src/helpers/hooks/useQuestions.tsx:157
+#: src/helpers/hooks/useQuestions.tsx:35
+#: src/helpers/hooks/useQuestions.tsx:46
+#: src/helpers/hooks/useQuestions.tsx:79
 msgid "Отсутствуют"
 msgstr "Yo'qolgan"
+
+#: src/helpers/hooks/useQuestions.tsx:33
+msgid "Оцените выраженность травматических изменений шейки матки по данным осмотра и анамнеза."
+msgstr "Оцените выраженность травматических изменений шейки матки по данным осмотра и анамнеза."
+
+#: src/helpers/hooks/useQuestions.tsx:77
+msgid "Оцените наличие воспалительных заболеваний матки и ее придатков."
+msgstr "Оцените наличие воспалительных заболеваний матки и ее придатков."
+
+#: src/helpers/hooks/useQuestions.tsx:98
+msgid "Оцените наличие гормональных нарушений."
+msgstr "Оцените наличие гормональных нарушений."
+
+#: src/helpers/hooks/useQuestions.tsx:32
+msgid "Оцените наличие и степень травм шейки матки."
+msgstr "Оцените наличие и степень травм шейки матки."
+
+#: src/helpers/hooks/useQuestions.tsx:131
+#~ msgid "Оцените наличие состояний, связанных со снижением иммунного ответа."
+#~ msgstr "Оцените наличие состояний, связанных со снижением иммунного ответа."
+
+#: src/helpers/hooks/useQuestions.tsx:66
+msgid "Оцените фоновые и доброкачественные заболевания шейки матки."
+msgstr "Оцените фоновые и доброкачественные заболевания шейки матки."
+
+#: src/helpers/hooks/useQuestions.tsx:88
+msgid "Оцените характер половой жизни пациентки."
+msgstr "Оцените характер половой жизни пациентки."
+
+#: src/helpers/hooks/useQuestions.tsx:120
+msgid "ПАП-тест — это цитологический мазок с шейки матки для раннего выявления предраковых изменений. Укажите подтвержденную степень ЦИН по результату ПАП-теста."
+msgstr "PAP-test — bachadon bo‘ynidan olingan sitologik surtma bo‘lib, saratonoldi o‘zgarishlarini erta aniqlashga xizmat qiladi. PAP-test natijasiga ko‘ra tasdiqlangan CIN darajasini ko‘rsating."
 
 #: src/pages/Select.tsx:45
 msgid "Пациент"
 msgstr "Bemor"
 
 #: src/helpers/hooks/useQuestions.tsx:164
-msgid "Перенесенная вирусная инфекция дыхательных путей"
-msgstr "Avvalgi respirator virusli infektsiya"
+#~ msgid "Перенесенная вирусная инфекция дыхательных путей"
+#~ msgstr "Avvalgi respirator virusli infektsiya"
 
 #: src/helpers/hooks/useQuestions.tsx:124
-msgid "ПОНРП"
-msgstr "PONR"
+#~ msgid "ПОНРП"
+#~ msgstr "PONR"
 
 #: src/helpers/hooks/useQuestions.tsx:125
 #~ msgid "Преждевременная отслойка нормально расположенной плаценты. преждевременное (до рождения ребенка) отделение плаценты от стенки матки во время беременности или в I - II периодах родов"
 #~ msgstr "Normalda joylashgan platsentaning muddatidan oldin ajralishi. Homiladorlik paytida yoki tug'ruqning birinchi - ikkinchi bosqichlarida yo'ldoshning bachadon devoridan muddatidan oldin (bola tug'ilishidan oldin) ajralishi"
 
 #: src/helpers/hooks/useQuestions.tsx:125
-msgid "Преждевременная отслойка нормально расположенной плаценты. Преждевременное (до рождения ребенка) отделение плаценты от стенки матки во время беременности или в I - II периодах родов"
-msgstr "Normalda joylashgan platsentaning muddatidan oldin ajralishi. Homiladorlik paytida yoki tug'ruqning I - II bosqichlarida yo'ldoshning bachadon devoridan muddatidan oldin (bola tug'ilishidan oldin) ajralishi"
+#~ msgid "Преждевременная отслойка нормально расположенной плаценты. Преждевременное (до рождения ребенка) отделение плаценты от стенки матки во время беременности или в I - II периодах родов"
+#~ msgstr "Normalda joylashgan platsentaning muddatidan oldin ajralishi. Homiladorlik paytida yoki tug'ruqning I - II bosqichlarida yo'ldoshning bachadon devoridan muddatidan oldin (bola tug'ilishidan oldin) ajralishi"
 
 #: src/helpers/hooks/useQuestions.tsx:109
-msgid "Преждевременные роды это родовая деятельность, которая началась на сроке беременности от 22 до 36 недели"
-msgstr "Muddatidan oldin tug'ilish - homiladorlikning 22 dan 36 haftagacha bo'lgan muddatida boshlangan tug'ruq faoliyati"
+#~ msgid "Преждевременные роды это родовая деятельность, которая началась на сроке беременности от 22 до 36 недели"
+#~ msgstr "Muddatidan oldin tug'ilish - homiladorlikning 22 dan 36 haftagacha bo'lgan muddatida boshlangan tug'ruq faoliyati"
 
 #: src/helpers/hooks/useQuestions.tsx:109
 #~ msgid "Преждевременные роды это родовая деятельность, которая началась на сроке беременности от 22 недель до 36 недель и 6 дней"
 #~ msgstr "Muddatidan oldin tug'ilish - homiladorlikning 22 haftasidan 36 haftasiga va 6 kunigacha bo'lgan tug'ruq"
 
+#: src/helpers/hooks/useResult.ts:20
+#: src/helpers/hooks/useResult.ts:44
+msgid "При низкой степени риска и выявлении вирусных инфекций скрининг должен проводиться не менее 1 раза в год. Лечение может включать местную противовирусную терапию по национальным протоколам и коррекцию фоновых процессов шейки матки."
+msgstr "При низкой степени риска и выявлении вирусных инфекций скрининг должен проводиться не менее 1 раза в год. Лечение может включать местную противовирусную терапию по национальным протоколам и коррекцию фоновых процессов шейки матки."
+
 #: src/helpers/hooks/useQuestions.tsx:93
-msgid "При последних родах"
-msgstr "Oxirgi tug'ilishda"
+#~ msgid "При последних родах"
+#~ msgstr "Oxirgi tug'ilishda"
 
 #: src/helpers/hooks/useQuestions.tsx:92
-msgid "При предыдущих беременностях"
-msgstr "Oldingi homiladorliklarda"
+#~ msgid "При предыдущих беременностях"
+#~ msgstr "Oldingi homiladorliklarda"
+
+#: src/helpers/hooks/useResult.ts:28
+msgid "При ЦИН 1 (LSIL) на фоне инфицирования высокоонкогенными штаммами ВПЧ рекомендован курс вагинальных суппозиториев с дииндолилметаном (Цервикон ДИМ) в течение 3 месяцев с последующим скринингом через 6 месяцев. При ЦИН 2 (HSIL) показано комплексное консервативное (Цервикон ДИМ) и хирургическое лечение (конизация или эксцизия шейки матки) с тщательной гистологией и скринингом через 6 месяцев."
+msgstr "При ЦИН 1 (LSIL) на фоне инфицирования высокоонкогенными штаммами ВПЧ рекомендован курс вагинальных суппозиториев с дииндолилметаном (Цервикон ДИМ) в течение 3 месяцев с последующим скринингом через 6 месяцев. При ЦИН 2 (HSIL) показано комплексное консервативное (Цервикон ДИМ) и хирургическое лечение (конизация или эксцизия шейки матки) с тщательной гистологией и скринингом через 6 месяцев."
 
 #: src/helpers/hooks/useQuestions.tsx:165
-msgid "Признаки эндотелиальной дисфункции включают ухудшение кровоснабжения, что может проявляться в виде боли в груди (стенокардии), одышки при физической нагрузке и повышенной утомляемости. При прогрессировании дисфункции также могут возникать отеки ног или стоп"
-msgstr "Endotelial disfunktsiya belgilari qon ta'minotining yomonlashishini o'z ichiga oladi, bu ko'krakdagi og'riq (stenokardiya), jismoniy mashq paytida nafas qisilishi va ortiqcha charchoq ko'rinishida namoyon bo'lishi mumkin. Disfunktsiya rivojlanishi bilan oyoq yoki tovonlarning shishishi ham paydo bo'lishi mumkin"
+#~ msgid "Признаки эндотелиальной дисфункции включают ухудшение кровоснабжения, что может проявляться в виде боли в груди (стенокардии), одышки при физической нагрузке и повышенной утомляемости. При прогрессировании дисфункции также могут возникать отеки ног или стоп"
+#~ msgstr "Endotelial disfunktsiya belgilari qon ta'minotining yomonlashishini o'z ichiga oladi, bu ko'krakdagi og'riq (stenokardiya), jismoniy mashq paytida nafas qisilishi va ortiqcha charchoq ko'rinishida namoyon bo'lishi mumkin. Disfunktsiya rivojlanishi bilan oyoq yoki tovonlarning shishishi ham paydo bo'lishi mumkin"
 
 #: src/helpers/hooks/useQuestions.tsx:42
 #: src/helpers/hooks/useQuestions.tsx:43
-msgid "Примеры заболеваний без нарушения функции: доброкачественные гипербилирубинемии, фибромы, лимфангиомы"
-msgstr "Funktsiya buzilishisiz kasalliklar misollari: yaxshi xulqli giperbilirubinemiya, fibroma, limfangioma"
+#~ msgid "Примеры заболеваний без нарушения функции: доброкачественные гипербилирубинемии, фибромы, лимфангиомы"
+#~ msgstr "Funktsiya buzilishisiz kasalliklar misollari: yaxshi xulqli giperbilirubinemiya, fibroma, limfangioma"
 
 #: src/helpers/hooks/useQuestions.tsx:129
-msgid "Прогрессирующая"
-msgstr "Progressiv"
+#~ msgid "Прогрессирующая"
+#~ msgstr "Progressiv"
 
-#: src/pages/Result.tsx:43
+#: src/pages/Result.tsx:53
 msgid "Пройти заново"
 msgstr "Qayta ijro etish"
 
 #: src/pages/Result.tsx:25
 #: src/pages/Result.tsx:48
-msgid "Результат"
-msgstr "Natija"
+#~ msgid "Результат"
+#~ msgstr "Natija"
+
+#: src/pages/Result.tsx:30
+#: src/pages/Result.tsx:58
+msgid "Результат оценки"
+msgstr "Baholash natijasi"
 
 #: src/components/BmiCalculator.tsx:56
 msgid "Результат:"
 msgstr "Natija:"
+
+#: src/helpers/hooks/useResult.ts:36
+msgid "Рекомендуется полный комплекс обследования (ВПЧ-тест, цитология, кольпоскопия, гистология, иммуноморфология, онкомаркеры, КТ/МРТ по показаниям). При ЦИН 3 (HSIL) необходимо обязательное направление к онкогинекологу для дообследования и специализированного лечения."
+msgstr "Рекомендуется полный комплекс обследования (ВПЧ-тест, цитология, кольпоскопия, гистология, иммуноморфология, онкомаркеры, КТ/МРТ по показаниям). При ЦИН 3 (HSIL) необходимо обязательное направление к онкогинекологу для дообследования и специализированного лечения."
 
 #: src/components/BmiCalculator.tsx:15
 #: src/components/BmiCalculator.tsx:21
@@ -550,8 +754,8 @@ msgid "Рост (см)"
 msgstr "Balandligi (sm)"
 
 #: src/helpers/hooks/useQuestions.tsx:205
-msgid "С нарушением кровообращения"
-msgstr "Qon aylanish muammolari bilan"
+#~ msgid "С нарушением кровообращения"
+#~ msgstr "Qon aylanish muammolari bilan"
 
 #: src/helpers/hooks/useQuestions.tsx:139
 #: src/helpers/hooks/useQuestions.tsx:149
@@ -559,74 +763,248 @@ msgstr "Qon aylanish muammolari bilan"
 #~ msgstr "Funktsiya buzilishi bilan"
 
 #: src/helpers/hooks/useQuestions.tsx:149
-msgid "С нарушением функции почек "
-msgstr "Buyrak funktsiyasining buzilishi bilan"
+#~ msgid "С нарушением функции почек "
+#~ msgstr "Buyrak funktsiyasining buzilishi bilan"
 
 #: src/helpers/hooks/useQuestions.tsx:139
-msgid "С недостаточностью кровообращения"
-msgstr "Qon aylanish yetishmovchiligi bilan"
+#~ msgid "С недостаточностью кровообращения"
+#~ msgstr "Qon aylanish yetishmovchiligi bilan"
 
 #: src/helpers/hooks/useQuestions.tsx:169
-msgid "С признаками  выраженной эндотелиальной дисфункции"
-msgstr "Endotelial disfunktsiyaning jiddiy buzilishi belgilari bilan"
+#~ msgid "С признаками  выраженной эндотелиальной дисфункции"
+#~ msgstr "Endotelial disfunktsiyaning jiddiy buzilishi belgilari bilan"
 
 #: src/helpers/hooks/useQuestions.tsx:168
-msgid "С признаками эндотелиальной дисфункции легкой степени"
-msgstr "Endotelial disfunktsiyaning engil belgilari bilan"
+#~ msgid "С признаками эндотелиальной дисфункции легкой степени"
+#~ msgstr "Endotelial disfunktsiyaning engil belgilari bilan"
+
+#: src/helpers/hooks/useQuestions.tsx:86
+msgid "Сексуальная жизнь"
+msgstr "Jinsiy hayot"
 
 #: src/helpers/hooks/useQuestions.tsx:12
-msgid "Сколько вам полных лет?"
-msgstr "Siz necha yoshdasiz?"
+#~ msgid "Сколько вам полных лет?"
+#~ msgstr "Siz necha yoshdasiz?"
 
 #: src/helpers/hooks/useQuestions.tsx:13
-msgid "Сколько пациенту полных лет?"
-msgstr "Bemor necha yoshda?"
+#~ msgid "Сколько пациенту полных лет?"
+#~ msgstr "Bemor necha yoshda?"
+
+#: src/helpers/hooks/useQuestions.tsx:19
+msgid "Сколько родов в акушерском анамнезе пациентки?"
+msgstr "Bemorning akusherlik anamnezida nechta tug'ruq bor?"
+
+#: src/helpers/hooks/useQuestions.tsx:18
+msgid "Сколько родов у вас было?"
+msgstr "Sizda nechta tug'ruq bo'lgan?"
+
+#: src/helpers/hooks/useQuestions.tsx:42
+msgid "Сопутствующие инфекционные заболевания"
+msgstr "Hamroh infeksion kasalliklar"
+
+#: src/pages/Result.tsx:60
+msgid "Сохранить и выгрузить"
+msgstr "Saqlash va eksport qilish"
 
 #: src/pages/Result.tsx:50
-msgid "Сохранить и отправить"
-msgstr "Saqlash va yuborish"
+#~ msgid "Сохранить и отправить"
+#~ msgstr "Saqlash va yuborish"
 
 #: src/helpers/hooks/useQuestions.tsx:119
-msgid "Средней или тяжелой степени"
-msgstr "O‘rtacha yoki og‘ir"
+#~ msgid "Средней или тяжелой степени"
+#~ msgstr "O‘rtacha yoki og‘ir"
 
 #: src/helpers/hooks/useResult.ts:25
-msgid "Средняя степень риска акушерского кровотечения"
-msgstr "Akusherlik qon ketishining o'rtacha xavfi"
+#~ msgid "Средняя степень риска акушерского кровотечения"
+#~ msgstr "Akusherlik qon ketishining o'rtacha xavfi"
+
+#: src/helpers/hooks/useResult.ts:25
+msgid "Средняя степень риска развития ЦИН и РШМ"
+msgstr "CIN va bachadon bo'yni saratoni rivojlanishining o'rtacha xavfi"
 
 #: src/helpers/hooks/useQuestions.tsx:14
-msgid "Старше 35 лет"
-msgstr "35 yoshdan katta"
+#~ msgid "Старше 35 лет"
+#~ msgstr "35 yoshdan katta"
+
+#: src/helpers/hooks/useQuestions.tsx:80
+msgid "Субклинические формы"
+msgstr "Subklinik shakllar"
+
+#: src/helpers/hooks/useResult.ts:19
+#: src/helpers/hooks/useResult.ts:43
+msgid "Сумма 0-9 баллов соответствует низкой степени риска. Показаны плановые скрининговые обследования (цитология, ВПЧ-тестирование по показаниям) и динамическое наблюдение."
+msgstr "Сумма 0-9 баллов соответствует низкой степени риска. Показаны плановые скрининговые обследования (цитология, ВПЧ-тестирование по показаниям) и динамическое наблюдение."
+
+#: src/helpers/hooks/useResult.ts:27
+msgid "Сумма 10-18 баллов соответствует средней степени риска. Требуется полноценное комплексное обследование: ВПЧ-тестирование, цитологическое исследование, кольпоскопия, гистологический анализ, иммуноморфологические исследования, онкомаркеры и визуализирующие методы (КТ/МРТ) по показаниям."
+msgstr "Сумма 10-18 баллов соответствует средней степени риска. Требуется полноценное комплексное обследование: ВПЧ-тестирование, цитологическое исследование, кольпоскопия, гистологический анализ, иммуноморфологические исследования, онкомаркеры и визуализирующие методы (КТ/МРТ) по показаниям."
+
+#: src/helpers/hooks/useResult.ts:35
+msgid "Сумма 19-28 баллов соответствует высокой степени риска. Пациентка относится к группе активного диспансерного наблюдения с маршрутизацией к онкогинекологу и проведением углубленной диагностики."
+msgstr "Сумма 19-28 баллов соответствует высокой степени риска. Пациентка относится к группе активного диспансерного наблюдения с маршрутизацией к онкогинекологу и проведением углубленной диагностики."
+
+#: src/pages/Result.tsx:32
+msgid "Сумма баллов"
+msgstr "Ballar yig'indisi"
+
+#: src/helpers/hooks/useQuestions.tsx:141
+msgid "Табакокурение"
+msgstr "Tamaki chekish"
+
+#: src/pages/Result.tsx:41
+msgid "Тактика ведения"
+msgstr "Yuritish taktikasi"
 
 #: src/helpers/hooks/useResult.ts:28
-msgid "Тактика ведения родов планируется и проводится в соответствии с акушерской ситуацией. При ведении родов через естественные родовые пути в конце 2 периода в/в капельно 1 мл. (5 ЕД) Окситоцина на 500,0 мл физиологического раствора со скоростью от 6-7 капель в минуту в конце второго периода с увеличением до 80 капель после рождения плечиков. Введение Окситоцина необходимо продолжать в раннем послеродовом периоде. При кесаревом сечении Окситоцин 1 мл. (5 ЕД) в/в медленно или Пабал 1 мл. (100 мкг.) в/в после извлечения ребенка. Или 1 мл. (5 ЕД) Окситоцина на 50,0 мл физиологического раствора со скоростью   до 80 капель в минуту. Болюсное введение утеротоников более предпочтительно нежели капельное, так как эффект начинается обычно «на конце иглы»."
-msgstr "Mehnatni boshqarish taktikasi akusherlik holatiga muvofiq rejalashtirilgan va amalga oshiriladi. Vaginal tug'ilishda 2-davr oxirida 1 ml (5 U) oksitotsin 500,0 ml fiziologik eritmada tomir ichiga sekundiga 6-7 tomchi tezlikda tomchilab yuboriladi, tug'ilish davri oxirida 80 ga ko'payadi. Tug'ruqdan keyingi erta davrda oksitotsinni 1 ml (5 U) tomir ichiga yoki chaqaloq ekstraktidan keyin 1 ml (5 U) oksitotsinni 50,0 ml dozada yuborish kerak uterotonika tomchilatib yuborishdan afzalroqdir, chunki ta'sir odatda \"ignaning oxirida\" boshlanadi."
+#~ msgid "Тактика ведения родов планируется и проводится в соответствии с акушерской ситуацией. При ведении родов через естественные родовые пути в конце 2 периода в/в капельно 1 мл. (5 ЕД) Окситоцина на 500,0 мл физиологического раствора со скоростью от 6-7 капель в минуту в конце второго периода с увеличением до 80 капель после рождения плечиков. Введение Окситоцина необходимо продолжать в раннем послеродовом периоде. При кесаревом сечении Окситоцин 1 мл. (5 ЕД) в/в медленно или Пабал 1 мл. (100 мкг.) в/в после извлечения ребенка. Или 1 мл. (5 ЕД) Окситоцина на 50,0 мл физиологического раствора со скоростью   до 80 капель в минуту. Болюсное введение утеротоников более предпочтительно нежели капельное, так как эффект начинается обычно «на конце иглы»."
+#~ msgstr "Mehnatni boshqarish taktikasi akusherlik holatiga muvofiq rejalashtirilgan va amalga oshiriladi. Vaginal tug'ilishda 2-davr oxirida 1 ml (5 U) oksitotsin 500,0 ml fiziologik eritmada tomir ichiga sekundiga 6-7 tomchi tezlikda tomchilab yuboriladi, tug'ilish davri oxirida 80 ga ko'payadi. Tug'ruqdan keyingi erta davrda oksitotsinni 1 ml (5 U) tomir ichiga yoki chaqaloq ekstraktidan keyin 1 ml (5 U) oksitotsinni 50,0 ml dozada yuborish kerak uterotonika tomchilatib yuborishdan afzalroqdir, chunki ta'sir odatda \"ignaning oxirida\" boshlanadi."
+
+#: src/helpers/hooks/useQuestions.tsx:31
+msgid "Травмы шейки матки"
+msgstr "Bachadon bo'yni jarohatlari"
 
 #: src/helpers/hooks/useResult.ts:34
-msgid "У вас высокий риск возникновения сильного кровотечения во время родов. Это означает, что необходимо особое внимание со стороны врачей, возможно, более частые госпитализации и тщательное обследование. Врачи заранее разработают план родов, возможно, с плановым кесаревым сечением, чтобы минимизировать риски."
-msgstr "Sizda tug'ilish paytida og'ir qon ketish xavfi yuqori. Bu shifokorlarning maxsus e'tiborini, ehtimol, ko'proq kasalxonaga yotqizish va chuqur tekshiruvni talab qiladi. Shifokorlar xavflarni kamaytirish maqsadida tug'ilish rejasi ishlab chiqadi, ehtimol, rejalashtirilgan sezaryen ameliyoti bilan."
+#~ msgid "У вас высокий риск возникновения сильного кровотечения во время родов. Это означает, что необходимо особое внимание со стороны врачей, возможно, более частые госпитализации и тщательное обследование. Врачи заранее разработают план родов, возможно, с плановым кесаревым сечением, чтобы минимизировать риски."
+#~ msgstr "Sizda tug'ilish paytida og'ir qon ketish xavfi yuqori. Bu shifokorlarning maxsus e'tiborini, ehtimol, ko'proq kasalxonaga yotqizish va chuqur tekshiruvni talab qiladi. Shifokorlar xavflarni kamaytirish maqsadida tug'ilish rejasi ishlab chiqadi, ehtimol, rejalashtirilgan sezaryen ameliyoti bilan."
+
+#: src/helpers/hooks/useResult.ts:34
+msgid "У вас высокий риск развития предраковых изменений и рака шейки матки. Нужна приоритетная консультация гинеколога/онкогинеколога и расширенная диагностика без задержек."
+msgstr "У вас высокий риск развития предраковых изменений и рака шейки матки. Нужна приоритетная консультация гинеколога/онкогинеколога и расширенная диагностика без задержек."
 
 #: src/helpers/hooks/useResult.ts:18
 #: src/helpers/hooks/useResult.ts:42
-msgid "У вас низкий риск возникновения сильного кровотечения во время родов. Это означает, что ваша беременность протекает без выраженных факторов риска. Тем не менее, врач будет внимательно следить за вашим состоянием и проводить стандартные обследования."
-msgstr "Sizda tug'ilish paytida og'ir qon ketish xavfi past. Bu homiladorlikda og'ir xavf omillari yo'qligini anglatadi. Biroq, shifokor sizning holatingizni diqqat bilan kuzatadi va standart tekshiruvlarni o'tkazadi."
+#~ msgid "У вас низкий риск возникновения сильного кровотечения во время родов. Это означает, что ваша беременность протекает без выраженных факторов риска. Тем не менее, врач будет внимательно следить за вашим состоянием и проводить стандартные обследования."
+#~ msgstr "Sizda tug'ilish paytida og'ir qon ketish xavfi past. Bu homiladorlikda og'ir xavf omillari yo'qligini anglatadi. Biroq, shifokor sizning holatingizni diqqat bilan kuzatadi va standart tekshiruvlarni o'tkazadi."
+
+#: src/helpers/hooks/useResult.ts:18
+#: src/helpers/hooks/useResult.ts:42
+msgid "У вас низкий риск развития цервикальной интраэпителиальной неоплазии и рака шейки матки. Рекомендуется регулярный скрининг не реже 1 раза в год и наблюдение у гинеколога."
+msgstr "У вас низкий риск развития цервикальной интраэпителиальной неоплазии и рака шейки матки. Рекомендуется регулярный скрининг не реже 1 раза в год и наблюдение у гинеколога."
 
 #: src/helpers/hooks/useResult.ts:26
-msgid "У вас средний риск возникновения кровотечения во время родов. Это означает, что есть некоторые факторы, требующие более внимательного наблюдения. Ваш врач будет чаще проводить обследования и, возможно, госпитализирует вас перед родами для более тщательного контроля."
-msgstr "Sizda tug'ilish paytida qon ketish xavfi o'rtacha. Bu e'tiborliroq kuzatish talab qilinadigan ayrim omillar mavjudligini anglatadi. Sizning shifokoringiz tez-tez tekshiruv o'tkazadi va homiladorlikni yanada e'tiborli kuzatish maqsadida sizni kasalxonaga yotqizishi mumkin."
+#~ msgid "У вас средний риск возникновения кровотечения во время родов. Это означает, что есть некоторые факторы, требующие более внимательного наблюдения. Ваш врач будет чаще проводить обследования и, возможно, госпитализирует вас перед родами для более тщательного контроля."
+#~ msgstr "Sizda tug'ilish paytida qon ketish xavfi o'rtacha. Bu e'tiborliroq kuzatish talab qilinadigan ayrim omillar mavjudligini anglatadi. Sizning shifokoringiz tez-tez tekshiruv o'tkazadi va homiladorlikni yanada e'tiborli kuzatish maqsadida sizni kasalxonaga yotqizishi mumkin."
+
+#: src/helpers/hooks/useResult.ts:26
+msgid "У вас средний риск развития цервикальной неоплазии и рака шейки матки. Не откладывайте расширенное обследование у специалиста и контрольные исследования в ближайшие месяцы."
+msgstr "У вас средний риск развития цервикальной неоплазии и рака шейки матки. Не откладывайте расширенное обследование у специалиста и контрольные исследования в ближайшие месяцы."
+
+#: src/helpers/hooks/useQuestions.tsx:11
+msgid "Укажите ваш возраст."
+msgstr "Yoshingizni kiriting."
+
+#: src/helpers/hooks/useQuestions.tsx:142
+msgid "Укажите ваш статус курения."
+msgstr "Chekish holatingizni kiriting."
+
+#: src/helpers/hooks/useQuestions.tsx:12
+msgid "Укажите возраст пациентки на момент оценки риска."
+msgstr "Xavfni baholash paytidagi bemor yoshini kiriting."
+
+#: src/helpers/hooks/useQuestions.tsx:143
+msgid "Укажите интенсивность табакокурения."
+msgstr "Tamaki chekish intensivligini ko'rsating."
+
+#: src/helpers/hooks/useQuestions.tsx:25
+msgid "Укажите количество искусственных и самопроизвольных абортов."
+msgstr "Sun'iy va spontan abortlar sonini ko'rsating."
+
+#: src/helpers/hooks/useQuestions.tsx:43
+msgid "Укажите количество сопутствующих инфекционных заболеваний."
+msgstr "Hamroh infeksion kasalliklar sonini ko'rsating."
+
+#: src/helpers/hooks/useQuestions.tsx:65
+msgid "Укажите наиболее значимое заболевание шейки матки."
+msgstr "Bachadon bo'ynining eng muhim kasalligini ko'rsating."
+
+#: src/helpers/hooks/useQuestions.tsx:120
+#~ msgid "Укажите подтвержденную степень цервикальной интраэпителиальной неоплазии (ЦИН)."
+#~ msgstr "Tasdiqlangan CIN darajasini ko'rsating."
+
+#: src/helpers/hooks/useQuestions.tsx:132
+msgid "Укажите причину и степень вторичной иммуносупрессии."
+msgstr "Ikkilamchi immunosupressiya sababi va darajasini ko'rsating."
+
+#: src/helpers/hooks/useQuestions.tsx:109
+msgid "Укажите результат обследования на вирус папилломы человека."
+msgstr "Inson papilloma virusi bo'yicha tekshiruv natijasini ko'rsating."
+
+#: src/helpers/hooks/useQuestions.tsx:44
+msgid "Укажите соматические инфекционные заболевания, сопутствующие текущему состоянию."
+msgstr "Joriy holatga hamroh somatik infeksion kasalliklarni ko'rsating."
+
+#: src/helpers/hooks/useQuestions.tsx:121
+msgid "Укажите степень ЦИН по результатам ПАП-теста."
+msgstr "PAP-test natijasiga ko'ra CIN darajasini ko'rsating."
+
+#: src/helpers/hooks/useQuestions.tsx:110
+msgid "Укажите тип ВПЧ-инфекции по данным лабораторного обследования."
+msgstr "Laborator tekshiruvga ko'ra VPH turiini ko'rsating."
+
+#: src/helpers/hooks/useQuestions.tsx:55
+msgid "Укажите уровень гемоглобина пациентки."
+msgstr "Bemorning gemoglobin darajasini ko'rsating."
+
+#: src/helpers/hooks/useQuestions.tsx:76
+msgid "Укажите форму воспалительного процесса."
+msgstr "Yallig'lanish jarayoni shaklini ko'rsating."
+
+#: src/helpers/hooks/useQuestions.tsx:99
+msgid "Укажите характер гормональных нарушений и длительность приема эстрогенсодержащих препаратов."
+msgstr "Gormonal buzilish turi va estrogen saqlovchi preparatlarni qabul qilish davomiyligini ko'rsating."
+
+#: src/helpers/hooks/useQuestions.tsx:26
+msgid "Укажите число искусственных и самопроизвольных прерываний беременности в анамнезе."
+msgstr "Anamnezdagi sun'iy va spontan homila to'xtashlari sonini ko'rsating."
 
 #: src/helpers/hooks/useQuestions.tsx:194
-msgid "Фибриноген"
-msgstr "Fibrinogen"
+#~ msgid "Фибриноген"
+#~ msgstr "Fibrinogen"
 
 #: src/helpers/hooks/useQuestions.tsx:158
-msgid "Хронический эндометрит"
-msgstr "Surunkali endometrit"
+#~ msgid "Хронический эндометрит"
+#~ msgstr "Surunkali endometrit"
+
+#: src/helpers/hooks/useQuestions.tsx:81
+msgid "Хроническое рецидивирующее течение"
+msgstr "Surunkali qaytalanuvchi kechish"
+
+#: src/helpers/hooks/useQuestions.tsx:68
+msgid "Цервицит"
+msgstr "Servitsit"
+
+#: src/helpers/hooks/useQuestions.tsx:123
+msgid "ЦИН 1 (LSIL)"
+msgstr "CIN 1 (LSIL)"
+
+#: src/helpers/hooks/useQuestions.tsx:124
+msgid "ЦИН 2 (HSIL)"
+msgstr "CIN 2 (HSIL)"
+
+#: src/helpers/hooks/useQuestions.tsx:125
+msgid "ЦИН 3 (HSIL)"
+msgstr "CIN 3 (HSIL)"
+
+#: src/helpers/hooks/useQuestions.tsx:24
+msgid "Число абортов и самопроизвольных прерываний"
+msgstr "Abortlar va spontan to'xtashlar soni"
+
+#: src/helpers/hooks/useQuestions.tsx:17
+msgid "Число родов"
+msgstr "Tug'ruqlar soni"
+
+#: src/helpers/hooks/useQuestions.tsx:69
+msgid "Эрозия, эктропион"
+msgstr "Eroziya, ektropion"
 
 #: src/pages/Select.tsx:21
-msgid "Это виртуальный акушерский консультант, который поможет вам определить риски акушерского кровотечения, а врачам предложит план лечения."
-msgstr "Bu akusherlik qon ketishi xavfini aniqlashga yordam beradigan va shifokorlarga davolash rejasini taklif qiladigan virtual akusherlik maslahatchisi."
+#~ msgid "Это виртуальный акушерский консультант, который поможет вам определить риски акушерского кровотечения, а врачам предложит план лечения."
+#~ msgstr "Bu akusherlik qon ketishi xavfini aniqlashga yordam beradigan va shifokorlarga davolash rejasini taklif qiladigan virtual akusherlik maslahatchisi."
+
+#: src/pages/Select.tsx:21
+msgid "Это виртуальный консультант для оценки степени риска развития цервикальной интраэпителиальной неоплазии и рака шейки матки. Врачам доступна расширенная тактика ведения по результатам."
+msgstr "Bu bachadon bo'yni intraepitelial neoplaziyasi va bachadon bo'yni saratoni xavfini baholash uchun virtual konsultant. Shifokorlar uchun natijalar bo'yicha kengaytirilgan yuritish taktikasi mavjud."
 
 #: src/helpers/hooks/useQuestions.tsx:201
-msgid "Это расширение вен ног"
-msgstr "Bu oyoq venalarining kengayishi"
+#~ msgid "Это расширение вен ног"
+#~ msgstr "Bu oyoq venalarining kengayishi"

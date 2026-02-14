@@ -15,19 +15,19 @@ export default function MainPage() {
     <TransitionWrapper className="overflow-auto">
       <Header />
       <div className="flex h-full flex-col items-center justify-center gap-8 p-2 md:flex-row">
-        <Card className="text-center text-black">
-          <h1 className="font-black text-2xl">Тюльпан</h1>
+        <Card className="border border-[#DE7E15]/40 bg-[#FEF4CE]/92 text-center text-[#1f2a22] backdrop-blur-md">
+          <h1 className="font-black text-2xl">Гранат</h1>
           <p>
             <Trans>
-              Это виртуальный акушерский консультант, который поможет вам
-              определить риски акушерского кровотечения, а врачам предложит план
-              лечения.
+              Это виртуальный консультант для оценки степени риска развития
+              цервикальной интраэпителиальной неоплазии и рака шейки матки.
+              Врачам доступна расширенная тактика ведения по результатам.
             </Trans>
           </p>
         </Card>
 
         <Card
-          className="items-center justify-center font-bold text-2xl text-black transition-all hover:scale-105 hover:bg-slate-200 active:scale-110"
+          className="items-center justify-center border border-[#C30108]/30 bg-[#FEF4CE]/92 font-bold text-2xl text-[#7a3e10] transition-all hover:scale-105 hover:bg-[#fde9b0] active:scale-110"
           onClick={() => {
             setIsDoc(true)
             navigate('/questions')
@@ -36,7 +36,7 @@ export default function MainPage() {
           {t`Врач`}
         </Card>
         <Card
-          className="items-center justify-center font-bold text-2xl text-black transition-all hover:scale-105 hover:bg-slate-200 active:scale-110"
+          className="items-center justify-center border border-[#C30108]/30 bg-[#FEF4CE]/92 font-bold text-2xl text-[#7a3e10] transition-all hover:scale-105 hover:bg-[#fde9b0] active:scale-110"
           onClick={() => {
             setIsDoc(false)
             navigate('/questions')

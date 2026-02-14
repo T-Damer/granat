@@ -1,6 +1,6 @@
 {
-  "name": "Tulpan",
-  "short_name": "Tulpan",
+  "name": "Granat",
+  "short_name": "Granat",
   "icons": [
     {
       "src": "/favicon/web-app-manifest-192x192.png",
@@ -15,7 +15,7 @@
       "purpose": "maskable"
     }
   ],
-  "theme_color": "#ffffff",
-  "background_color": "#ffffff",
+  "theme_color": "#2f6f49",
+  "background_color": "#2f6f49",
   "display": "standalone"
 }

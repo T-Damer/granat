@@ -27,7 +27,7 @@ export default function LanguagePicker() {
   return (
     <button
       onClick={() => toggleLanguage(nextLang())}
-      className="btn rounded-full font-medium text-sm"
+      className="rounded-full border border-[#DE7E15]/60 bg-[#FEF4CE]/92 px-4 py-2 font-semibold text-[#7a3e10] text-sm transition-colors hover:bg-[#fde9b0]"
       aria-label={`Switch language to ${nextLang()}`}
     >
       {user.language.toUpperCase()}

@@ -2,12 +2,16 @@
 @plugin 'daisyui';
 
 @theme {
-  --color-accent: #FD62C7;
-  --color-selection: #EFC9F7;
+  --color-accent: #E20000;
+  --color-selection: #A8FFDF;
+  --color-surface: #FEF4CE;
+  --color-surface-muted: #fde9b0;
+  --color-bg-start: #2f6f49;
+  --color-bg-end: #77D684;
 
   --font-sans: "Nunito", sans-serif;
 
-  --shadow-card: 0 0 15px 6px rgb(0 0 0 / 0.25);
+  --shadow-card: 0 14px 42px rgb(35 72 53 / 0.28);
 
   --noise-svg: url("/img/noise-filter.svg");
 }
@@ -20,18 +24,23 @@
 html {
   overscroll-behavior: none;
   text-wrap: pretty;
+  background-color: var(--color-bg-start);
 }
 
 body {
   margin: 0;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  color: #1f2a22;
+  background:
+    radial-gradient(circle at 15% 20%, rgb(168 255 223 / 0.28), transparent 38%),
+    linear-gradient(150deg, var(--color-bg-start), var(--color-bg-end));
 }
 
 
 a:hover {
-  background: var(--color-selection);
-  color: white;
+  background: rgb(168 255 223 / 0.8);
+  color: #1f2a22;
   text-decoration: none;
   transition: all 0.2s ease-in-out;
 }
@@ -46,9 +55,9 @@ span {
 }
 
 ::selection {
-  text-decoration: underline wavy var(--color-selection);
-  color: var(--color-selection);
-  background: transparent;
+  text-decoration: underline wavy #E20000;
+  color: #1f2a22;
+  background: var(--color-selection);
 }
 
 ::-webkit-scrollbar {
