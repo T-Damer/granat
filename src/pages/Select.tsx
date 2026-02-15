@@ -1,5 +1,6 @@
 import { Trans, useLingui } from '@lingui/react/macro'
 import isDocStore from 'atoms/isDocStore'
+import patientsDataStore from 'atoms/patientsDataStore'
 import Card from 'components/Card'
 import Header from 'components/Header'
 import TransitionWrapper from 'components/TransitionWrapper'
@@ -10,6 +11,7 @@ export default function MainPage() {
   const { t } = useLingui()
   const navigate = useNavigate()
   const setIsDoc = useSetAtom(isDocStore)
+  const setPatientsData = useSetAtom(patientsDataStore)
 
   return (
     <TransitionWrapper className="overflow-auto">
@@ -29,6 +31,7 @@ export default function MainPage() {
         <Card
           className="items-center justify-center border border-[#C30108]/30 bg-[#FEF4CE]/92 font-bold text-2xl text-[#7a3e10] transition-all hover:scale-105 hover:bg-[#fde9b0] active:scale-110"
           onClick={() => {
+            setPatientsData([])
             setIsDoc(true)
             navigate('/questions')
           }}
@@ -38,6 +41,7 @@ export default function MainPage() {
         <Card
           className="items-center justify-center border border-[#C30108]/30 bg-[#FEF4CE]/92 font-bold text-2xl text-[#7a3e10] transition-all hover:scale-105 hover:bg-[#fde9b0] active:scale-110"
           onClick={() => {
+            setPatientsData([])
             setIsDoc(false)
             navigate('/questions')
           }}

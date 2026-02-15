@@ -234,7 +234,7 @@ msgstr "Select the option that best describes your sexual life."
 #~ msgid "Высокая степень риска акушерского кровотечения"
 #~ msgstr "High risk of obstetric hemorrhage"
 
-#: src/helpers/hooks/useResult.ts:47
+#: src/helpers/hooks/useResult.ts:52
 msgid "Высокая степень риска развития ЦИН и РШМ"
 msgstr "High risk of CIN and cervical cancer"
 
@@ -556,8 +556,8 @@ msgstr "No"
 #~ msgid "Низкая степень риска акушерского кровотечения"
 #~ msgstr "Low risk of obstetric hemorrhage"
 
-#: src/helpers/hooks/useResult.ts:31
-#: src/helpers/hooks/useResult.ts:55
+#: src/helpers/hooks/useResult.ts:36
+#: src/helpers/hooks/useResult.ts:60
 msgid "Низкая степень риска развития ЦИН и РШМ"
 msgstr "Low risk of CIN and cervical cancer"
 
@@ -695,10 +695,14 @@ msgstr "Patient"
 #~ msgid "Преждевременные роды это родовая деятельность, которая началась на сроке беременности от 22 недель до 36 недель и 6 дней"
 #~ msgstr "Preterm labor is labor that begins between 22 weeks and 36 weeks and 6 days of pregnancy"
 
+#: src/helpers/hooks/useResult.ts:30
+msgid "При низкой степени риска и выявлении вирусных инфекций скрининг должен осуществляться не менее 1 раза в год. Лечение может быть направлено на борьбу с вирусом (местные противовирусные препараты, согласно национальным протоколам) и ликвидацию фоновых процессов, если они есть в наличии."
+msgstr "With low risk and detected viral infections, screening should be carried out at least once per year. Treatment may be aimed at combating the virus (local antiviral drugs according to national protocols) and eliminating background processes, if present."
+
 #: src/helpers/hooks/useResult.ts:34
 #: src/helpers/hooks/useResult.ts:58
-msgid "При низкой степени риска и выявлении вирусных инфекций скрининг должен проводиться не менее 1 раза в год. Лечение может включать местную противовирусную терапию по национальным протоколам и коррекцию фоновых процессов шейки матки."
-msgstr "With low risk and detected viral infections, screening should be performed at least once per year. Treatment may include local antiviral therapy per national protocols and management of background cervical conditions."
+#~ msgid "При низкой степени риска и выявлении вирусных инфекций скрининг должен проводиться не менее 1 раза в год. Лечение может включать местную противовирусную терапию по национальным протоколам и коррекцию фоновых процессов шейки матки."
+#~ msgstr "With low risk and detected viral infections, screening should be performed at least once per year. Treatment may include local antiviral therapy per national protocols and management of background cervical conditions."
 
 #: src/helpers/hooks/useQuestions.tsx:93
 #~ msgid "При последних родах"
@@ -708,9 +712,13 @@ msgstr "With low risk and detected viral infections, screening should be perform
 #~ msgid "При предыдущих беременностях"
 #~ msgstr "At previous pregnancies"
 
+#: src/helpers/hooks/useResult.ts:31
+msgid "При среднем и высоком риске РШМ рекомендуется полноценное комплексное обследование: ВПЧ-тестирование, цитологическое исследование, кольпоскопия, гистологический анализ, иммуноморфологические исследования, определение онкомаркеров и визуализирующие исследования, такие как компьютерная томография (КТ) или магнитно-резонансная томография (МРТ)."
+msgstr "For moderate and high risk of cervical cancer, a full comprehensive evaluation is recommended: HPV testing, cytology, colposcopy, histological analysis, immunomorphological studies, tumor marker assessment, and imaging studies such as CT or MRI."
+
 #: src/helpers/hooks/useResult.ts:42
-msgid "При среднем риске рекомендуется полноценное комплексное обследование: ВПЧ-тестирование, цитологическое исследование, кольпоскопия, гистологический анализ, иммуноморфологические исследования, онкомаркеры и визуализирующие методы (КТ/МРТ) по показаниям."
-msgstr "With moderate risk, a full comprehensive evaluation is recommended: HPV testing, cytology, colposcopy, histology, immunomorphology, tumor markers, and imaging (CT/MRI) as indicated."
+#~ msgid "При среднем риске рекомендуется полноценное комплексное обследование: ВПЧ-тестирование, цитологическое исследование, кольпоскопия, гистологический анализ, иммуноморфологические исследования, онкомаркеры и визуализирующие методы (КТ/МРТ) по показаниям."
+#~ msgstr "With moderate risk, a full comprehensive evaluation is recommended: HPV testing, cytology, colposcopy, histology, immunomorphology, tumor markers, and imaging (CT/MRI) as indicated."
 
 #: src/helpers/hooks/useResult.ts:28
 #~ msgid "При ЦИН 1 (LSIL) на фоне инфицирования высокоонкогенными штаммами ВПЧ рекомендован курс вагинальных суппозиториев с дииндолилметаном (Цервикон ДИМ) в течение 3 месяцев с последующим скринингом через 6 месяцев. При ЦИН 2 (HSIL) показано комплексное консервативное (Цервикон ДИМ) и хирургическое лечение (конизация или эксцизия шейки матки) с тщательной гистологией и скринингом через 6 месяцев."
@@ -748,8 +756,8 @@ msgid "Результат:"
 msgstr "Result:"
 
 #: src/helpers/hooks/useResult.ts:50
-msgid "Рекомендуется полный комплекс обследования (ВПЧ-тест, цитология, кольпоскопия, гистология, иммуноморфология, онкомаркеры, КТ/МРТ по показаниям)."
-msgstr "A full diagnostic workup is recommended (HPV test, cytology, colposcopy, histology, immunomorphology, tumor markers, and CT/MRI as indicated)."
+#~ msgid "Рекомендуется полный комплекс обследования (ВПЧ-тест, цитология, кольпоскопия, гистология, иммуноморфология, онкомаркеры, КТ/МРТ по показаниям)."
+#~ msgstr "A full diagnostic workup is recommended (HPV test, cytology, colposcopy, histology, immunomorphology, tumor markers, and CT/MRI as indicated)."
 
 #: src/helpers/hooks/useResult.ts:36
 #~ msgid "Рекомендуется полный комплекс обследования (ВПЧ-тест, цитология, кольпоскопия, гистология, иммуноморфология, онкомаркеры, КТ/МРТ по показаниям). При ЦИН 3 (HSIL) необходимо обязательное направление к онкогинекологу для дообследования и специализированного лечения."
@@ -825,7 +833,7 @@ msgstr "Save and export"
 #~ msgid "Средняя степень риска акушерского кровотечения"
 #~ msgstr "Medium risk of obstetric hemorrhage"
 
-#: src/helpers/hooks/useResult.ts:39
+#: src/helpers/hooks/useResult.ts:44
 msgid "Средняя степень риска развития ЦИН и РШМ"
 msgstr "Moderate risk of CIN and cervical cancer"
 
@@ -837,16 +845,25 @@ msgstr "Moderate risk of CIN and cervical cancer"
 msgid "Субклинические формы"
 msgstr "Subclinical forms"
 
-#: src/helpers/hooks/useResult.ts:33
-#: src/helpers/hooks/useResult.ts:57
-msgid "Сумма 0-9 баллов соответствует низкой степени риска. Показаны плановые скрининговые обследования (цитология, ВПЧ-тестирование по показаниям) и динамическое наблюдение."
-msgstr "A total score of 0-9 corresponds to low risk. Routine screening (cytology, HPV testing when indicated) and follow-up are recommended."
+#: src/helpers/hooks/useResult.ts:38
+#: src/helpers/hooks/useResult.ts:62
+msgid "Сумма 0-9 баллов соответствует низкой степени риска развития ЦИН и РШМ."
+msgstr "A total score of 0-9 corresponds to low risk of CIN and cervical cancer."
 
-#: src/helpers/hooks/useResult.ts:41
-msgid "Сумма 10-18 баллов соответствует средней степени риска. Требуется полноценное комплексное обследование: ВПЧ-тестирование, цитологическое исследование, кольпоскопия, гистологический анализ, иммуноморфологические исследования, онкомаркеры и визуализирующие методы (КТ/МРТ) по показаниям."
-msgstr "A total score of 10-18 corresponds to moderate risk. A full comprehensive evaluation is required: HPV testing, cytology, colposcopy, histology, immunomorphology, tumor markers, and imaging (CT/MRI) as indicated."
+#: src/helpers/hooks/useResult.ts:36
+#: src/helpers/hooks/useResult.ts:60
+#~ msgid "Сумма 0-9 баллов соответствует низкой степени риска. Показаны плановые скрининговые обследования (цитология, ВПЧ-тестирование по показаниям) и динамическое наблюдение."
+#~ msgstr "A total score of 0-9 corresponds to low risk. Routine screening (cytology, HPV testing when indicated) and follow-up are recommended."
 
-#: src/helpers/hooks/useResult.ts:49
+#: src/helpers/hooks/useResult.ts:46
+msgid "Сумма 10-18 баллов соответствует средней степени риска развития ЦИН и РШМ."
+msgstr "A total score of 10-18 corresponds to moderate risk of CIN and cervical cancer."
+
+#: src/helpers/hooks/useResult.ts:44
+#~ msgid "Сумма 10-18 баллов соответствует средней степени риска. Требуется полноценное комплексное обследование: ВПЧ-тестирование, цитологическое исследование, кольпоскопия, гистологический анализ, иммуноморфологические исследования, онкомаркеры и визуализирующие методы (КТ/МРТ) по показаниям."
+#~ msgstr "A total score of 10-18 corresponds to moderate risk. A full comprehensive evaluation is required: HPV testing, cytology, colposcopy, histology, immunomorphology, tumor markers, and imaging (CT/MRI) as indicated."
+
+#: src/helpers/hooks/useResult.ts:54
 msgid "Сумма 19-28 баллов соответствует высокой степени риска. Пациентка относится к группе активного диспансерного наблюдения с маршрутизацией к онкогинекологу и проведением углубленной диагностики."
 msgstr "A total score of 19-28 corresponds to high risk. The patient should be included in active follow-up with referral to an oncogynecologist and extended diagnostics."
 
@@ -874,7 +891,7 @@ msgstr "Cervical trauma"
 #~ msgid "У вас высокий риск возникновения сильного кровотечения во время родов. Это означает, что необходимо особое внимание со стороны врачей, возможно, более частые госпитализации и тщательное обследование. Врачи заранее разработают план родов, возможно, с плановым кесаревым сечением, чтобы минимизировать риски."
 #~ msgstr "You have a high risk of severe bleeding during childbirth. This means special attention from doctors is needed, possibly more frequent hospitalizations and thorough examinations. Doctors will develop a birth plan in advance, possibly with an elective cesarean section, to minimize risks."
 
-#: src/helpers/hooks/useResult.ts:48
+#: src/helpers/hooks/useResult.ts:53
 msgid "У вас высокий риск развития предраковых изменений и рака шейки матки. Нужна приоритетная консультация гинеколога/онкогинеколога и расширенная диагностика без задержек."
 msgstr "You have a high risk of precancerous changes and cervical cancer. Priority consultation with a gynecologist/oncogynecologist and extended diagnostics are needed without delay."
 
@@ -883,8 +900,8 @@ msgstr "You have a high risk of precancerous changes and cervical cancer. Priori
 #~ msgid "У вас низкий риск возникновения сильного кровотечения во время родов. Это означает, что ваша беременность протекает без выраженных факторов риска. Тем не менее, врач будет внимательно следить за вашим состоянием и проводить стандартные обследования."
 #~ msgstr "You have a low risk of severe bleeding during childbirth. This means your pregnancy is progressing without significant risk factors. However, your doctor will monitor you closely and perform standard examinations."
 
-#: src/helpers/hooks/useResult.ts:32
-#: src/helpers/hooks/useResult.ts:56
+#: src/helpers/hooks/useResult.ts:37
+#: src/helpers/hooks/useResult.ts:61
 msgid "У вас низкий риск развития цервикальной интраэпителиальной неоплазии и рака шейки матки. Рекомендуется регулярный скрининг не реже 1 раза в год и наблюдение у гинеколога."
 msgstr "You have a low risk of cervical intraepithelial neoplasia and cervical cancer. Regular screening at least once a year and gynecologic follow-up are recommended."
 
@@ -892,7 +909,7 @@ msgstr "You have a low risk of cervical intraepithelial neoplasia and cervical c
 #~ msgid "У вас средний риск возникновения кровотечения во время родов. Это означает, что есть некоторые факторы, требующие более внимательного наблюдения. Ваш врач будет чаще проводить обследования и, возможно, госпитализирует вас перед родами для более тщательного контроля."
 #~ msgstr "You have a moderate risk of bleeding during childbirth. This means there are some factors requiring closer monitoring. Your doctor will perform more frequent examinations and may hospitalize you before delivery for more careful monitoring."
 
-#: src/helpers/hooks/useResult.ts:40
+#: src/helpers/hooks/useResult.ts:45
 msgid "У вас средний риск развития цервикальной неоплазии и рака шейки матки. Не откладывайте расширенное обследование у специалиста и контрольные исследования в ближайшие месяцы."
 msgstr "You have a moderate risk of cervical neoplasia and cervical cancer. Do not delay extended evaluation by a specialist and follow-up testing in the coming months."
 
