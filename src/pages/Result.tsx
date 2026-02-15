@@ -22,7 +22,9 @@ export default function ResultPage() {
       (atom.find((item) => item.questionId === question.id)?.answerId ?? 0),
     0
   )
-  const result = useResult(sum)
+  const cinGrade =
+    atom.find((item) => item.questionId === 11)?.answerId ?? null
+  const result = useResult(sum, cinGrade)
 
   return (
     <TransitionWrapper className="z-10 flex items-center justify-center overflow-auto">
