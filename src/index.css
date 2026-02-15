@@ -1,13 +1,84 @@
 @import "tailwindcss";
 @plugin 'daisyui';
 
+:root {
+  --c-bg-start: #2f6f49;
+  --c-bg-mid: #4f9f68;
+  --c-bg-deep: #3e8c59;
+  --c-bg-end: #77d684;
+  --c-light-green: #a8ffdf;
+  --c-light-green-28: rgb(168 255 223 / 0.28);
+  --c-light-green-55: rgb(168 255 223 / 0.55);
+  --c-light-green-rgb: 168, 255, 223;
+
+  --c-surface: #fef4ce;
+  --c-surface-hover: #fde9b0;
+  --c-surface-soft: #fef8df;
+  --c-surface-92: rgb(254 244 206 / 0.92);
+  --c-surface-94: rgb(254 244 206 / 0.94);
+
+  --c-red: #e20000;
+  --c-red-dark: #c30108;
+  --c-red-rgb: 226, 0, 0;
+  --c-red-dark-rgb: 195, 1, 8;
+  --c-red-dark-30: rgb(195 1 8 / 0.3);
+  --c-red-dark-90: rgb(195 1 8 / 0.9);
+  --c-accent-warm: #de7e15;
+  --c-accent-warm-rgb: 222, 126, 21;
+  --c-accent-warm-35: rgb(222 126 21 / 0.35);
+  --c-accent-warm-40: rgb(222 126 21 / 0.4);
+  --c-accent-warm-60: rgb(222 126 21 / 0.6);
+
+  --c-text: #1f2a22;
+  --c-text-muted: #304236;
+  --c-warm-text: #7a3e10;
+
+  --c-white: #ffffff;
+  --c-white-25: rgb(255 255 255 / 0.25);
+  --c-white-31: rgb(255 255 255 / 0.31);
+  --c-white-40: rgb(255 255 255 / 0.4);
+  --c-white-75: rgb(255 255 255 / 0.75);
+  --c-black-10: rgb(0 0 0 / 0.1);
+  --c-black-20: rgb(0 0 0 / 0.2);
+}
+
 @theme {
-  --color-accent: #E20000;
-  --color-selection: #A8FFDF;
-  --color-surface: #FEF4CE;
-  --color-surface-muted: #fde9b0;
-  --color-bg-start: #2f6f49;
-  --color-bg-end: #77D684;
+  --color-accent: var(--c-red);
+  --color-selection: var(--c-light-green);
+  --color-surface: var(--c-surface);
+  --color-surface-hover: var(--c-surface-hover);
+  --color-surface-muted: var(--c-surface-hover);
+  --color-surface-soft: var(--c-surface-soft);
+  --color-surface-92: var(--c-surface-92);
+  --color-surface-94: var(--c-surface-94);
+
+  --color-red: var(--c-red);
+  --color-red-dark: var(--c-red-dark);
+  --color-red-dark-30: var(--c-red-dark-30);
+  --color-red-dark-90: var(--c-red-dark-90);
+
+  --color-accent-warm: var(--c-accent-warm);
+  --color-accent-warm-35: var(--c-accent-warm-35);
+  --color-accent-warm-40: var(--c-accent-warm-40);
+  --color-accent-warm-60: var(--c-accent-warm-60);
+
+  --color-text: var(--c-text);
+  --color-text-muted: var(--c-text-muted);
+  --color-warm-text: var(--c-warm-text);
+
+  --color-white: var(--c-white);
+  --color-white-25: var(--c-white-25);
+  --color-white-31: var(--c-white-31);
+  --color-white-40: var(--c-white-40);
+  --color-white-75: var(--c-white-75);
+
+  --color-black-10: var(--c-black-10);
+  --color-black-20: var(--c-black-20);
+
+  --color-bg-start: var(--c-bg-start);
+  --color-bg-mid: var(--c-bg-mid);
+  --color-bg-deep: var(--c-bg-deep);
+  --color-bg-end: var(--c-bg-end);
 
   --font-sans: "Nunito", sans-serif;
 
@@ -24,23 +95,23 @@
 html {
   overscroll-behavior: none;
   text-wrap: pretty;
-  background-color: var(--color-bg-start);
+  background-color: var(--c-bg-start);
 }
 
 body {
   margin: 0;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  color: #1f2a22;
+  color: var(--c-text);
   background:
-    radial-gradient(circle at 15% 20%, rgb(168 255 223 / 0.28), transparent 38%),
-    linear-gradient(150deg, var(--color-bg-start), var(--color-bg-end));
+    radial-gradient(circle at 15% 20%, var(--c-light-green-28), transparent 38%),
+    linear-gradient(150deg, var(--c-bg-start), var(--c-bg-end));
 }
 
 
 a:hover {
-  background: rgb(168 255 223 / 0.8);
-  color: #1f2a22;
+  background: color-mix(in srgb, var(--c-light-green) 80%, transparent);
+  color: var(--c-text);
   text-decoration: none;
   transition: all 0.2s ease-in-out;
 }
@@ -55,8 +126,8 @@ span {
 }
 
 ::selection {
-  text-decoration: underline wavy #E20000;
-  color: #1f2a22;
+  text-decoration: underline wavy var(--c-red);
+  color: var(--c-text);
   background: var(--color-selection);
 }
 

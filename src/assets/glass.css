@@ -1,8 +1,8 @@
 :root {
-    --lg-bg-color: rgba(255, 255, 255, 0.25);
-    --lg-highlight: rgba(255, 255, 255, 0.75);
-    --lg-text: #ffffff;
-    --lg-hover-glow: rgba(255, 255, 255, 0.4);
+    --lg-bg-color: var(--c-white-25);
+    --lg-highlight: var(--c-white-75);
+    --lg-text: var(--c-white);
+    --lg-hover-glow: var(--c-white-40);
 }
 
 .glass-filter {

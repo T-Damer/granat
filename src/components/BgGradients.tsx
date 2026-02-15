@@ -3,14 +3,14 @@ import { cn } from 'helpers/cn'
 import { useEffect, useRef, useState } from 'react'
 
 export const BgGradients = ({
-  gradientBackgroundStart = '#2f6f49',
-  gradientBackgroundEnd = '#77D684',
-  firstColor = 'rgba(168, 255, 223, 0.55)',
-  secondColor = '226,0,0',
-  thirdColor = '195,1,8',
-  fourthColor = '222,126,21',
-  fifthColor = '168,255,223',
-  pointerColor = '226,0,0',
+  gradientBackgroundStart = 'var(--c-bg-start)',
+  gradientBackgroundEnd = 'var(--c-bg-end)',
+  firstColor = 'var(--c-light-green-55)',
+  secondColor = 'var(--c-red-rgb)',
+  thirdColor = 'var(--c-red-dark-rgb)',
+  fourthColor = 'var(--c-accent-warm-rgb)',
+  fifthColor = 'var(--c-light-green-rgb)',
+  pointerColor = 'var(--c-red-rgb)',
   size = '100%',
   blendingValue = 'soft-light',
   children,

@@ -6,7 +6,7 @@ export default function LiquidGlass({ children }: PropsWithChildren) {
       <div
         style={{
           boxShadow:
-            '0 6px 6px rgba(0, 0, 0, 0.2), 0 0 20px rgba(0, 0, 0, 0.1)',
+            '0 6px 6px var(--c-black-20), 0 0 20px var(--c-black-10)',
           transition: 'all 0.4s cubic-bezier(0.175, 0.885, 0.32, 2.2)',
         }}
         className="relative flex h-64 w-80 cursor-pointer overflow-hidden rounded-md"
@@ -15,12 +15,12 @@ export default function LiquidGlass({ children }: PropsWithChildren) {
           className="absolute inset-0 isolate z-0 overflow-hidden backdrop-blur-xs"
           style={{ filter: 'url(#glass-distortion)' }}
         />
-        <div className="absolute inset-0 z-1 bg-white/25" />
+        <div className="absolute inset-0 z-1 bg-white-25" />
         <div
           className="absolute inset-0 z-2 overflow-hidden"
           style={{
             boxShadow:
-              'inset 2px 2px 1px 0 #ffffff50, inset -1px -1px 1px 1px #ffffff50',
+              'inset 2px 2px 1px 0 var(--c-white-31), inset -1px -1px 1px 1px var(--c-white-31)',
           }}
         />
         <div className="z-3 flex-col gap-4 rounded-md p-4 drop-shadow-2xl">

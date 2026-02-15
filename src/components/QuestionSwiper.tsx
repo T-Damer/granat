@@ -64,7 +64,7 @@ export default function QuestionSwiper() {
       {questions.map((question, index) => (
         <SwiperSlide
           key={index}
-          className="w-full rounded-2xl border border-[#DE7E15]/35 bg-[#FEF4CE]/94 p-8 shadow-2xl backdrop-blur-md"
+          className="w-full rounded-2xl border border-accent-warm-35 bg-surface-94 p-8 shadow-2xl backdrop-blur-md"
         >
           <QuestionCard
             selectedAnswerId={

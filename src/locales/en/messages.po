@@ -214,7 +214,7 @@ msgstr "Inflammatory diseases of the uterus and adnexa"
 msgid "ВПЧ 16 и 18 типа"
 msgstr "HPV types 16 and 18"
 
-#: src/pages/Select.tsx:36
+#: src/pages/Select.tsx:39
 msgid "Врач"
 msgstr "Doctor"
 
@@ -234,7 +234,7 @@ msgstr "Select the option that best describes your sexual life."
 #~ msgid "Высокая степень риска акушерского кровотечения"
 #~ msgstr "High risk of obstetric hemorrhage"
 
-#: src/helpers/hooks/useResult.ts:52
+#: src/helpers/hooks/useResult.ts:48
 msgid "Высокая степень риска развития ЦИН и РШМ"
 msgstr "High risk of CIN and cervical cancer"
 
@@ -556,8 +556,8 @@ msgstr "No"
 #~ msgid "Низкая степень риска акушерского кровотечения"
 #~ msgstr "Low risk of obstetric hemorrhage"
 
-#: src/helpers/hooks/useResult.ts:36
-#: src/helpers/hooks/useResult.ts:60
+#: src/helpers/hooks/useResult.ts:32
+#: src/helpers/hooks/useResult.ts:56
 msgid "Низкая степень риска развития ЦИН и РШМ"
 msgstr "Low risk of CIN and cervical cancer"
 
@@ -573,7 +573,7 @@ msgstr "Low risk of CIN and cervical cancer"
 msgid "Носительство ВПЧ инфекции"
 msgstr "HPV infection carriage"
 
-#: src/pages/Result.tsx:68
+#: src/pages/Result.tsx:76
 msgid "Обратиться к гинекологу"
 msgstr "Consult a gynecologist"
 
@@ -667,7 +667,7 @@ msgstr "Assess the patient's sexual behavior."
 msgid "ПАП-тест — это цитологический мазок с шейки матки для раннего выявления предраковых изменений. Укажите подтвержденную степень ЦИН по результату ПАП-теста."
 msgstr "A PAP test is a cervical cytology smear used for early detection of precancerous changes. Specify the confirmed CIN grade according to the PAP test result."
 
-#: src/pages/Select.tsx:45
+#: src/pages/Select.tsx:49
 msgid "Пациент"
 msgstr "Patient"
 
@@ -695,7 +695,11 @@ msgstr "Patient"
 #~ msgid "Преждевременные роды это родовая деятельность, которая началась на сроке беременности от 22 недель до 36 недель и 6 дней"
 #~ msgstr "Preterm labor is labor that begins between 22 weeks and 36 weeks and 6 days of pregnancy"
 
-#: src/helpers/hooks/useResult.ts:30
+#: src/helpers/hooks/useResult.ts:17
+msgid "При выявлении ЦИН 1 (LSIL) на фоне инфицирования высокоонкогенными штаммами ВПЧ рекомендуется курс лечения вагинальными суппозиториями, содержащими Дииндолилметан (Цервикон ДИМ), в течение 3 месяцев. Последующий скрининг через 6 месяцев."
+msgstr "When CIN 1 (LSIL) is detected with high-oncogenic HPV infection, a treatment course with vaginal suppositories containing diindolylmethane (Cervikon DIM) is recommended for 3 months. Follow-up screening after 6 months."
+
+#: src/helpers/hooks/useResult.ts:26
 msgid "При низкой степени риска и выявлении вирусных инфекций скрининг должен осуществляться не менее 1 раза в год. Лечение может быть направлено на борьбу с вирусом (местные противовирусные препараты, согласно национальным протоколам) и ликвидацию фоновых процессов, если они есть в наличии."
 msgstr "With low risk and detected viral infections, screening should be carried out at least once per year. Treatment may be aimed at combating the virus (local antiviral drugs according to national protocols) and eliminating background processes, if present."
 
@@ -712,7 +716,7 @@ msgstr "With low risk and detected viral infections, screening should be carried
 #~ msgid "При предыдущих беременностях"
 #~ msgstr "At previous pregnancies"
 
-#: src/helpers/hooks/useResult.ts:31
+#: src/helpers/hooks/useResult.ts:27
 msgid "При среднем и высоком риске РШМ рекомендуется полноценное комплексное обследование: ВПЧ-тестирование, цитологическое исследование, кольпоскопия, гистологический анализ, иммуноморфологические исследования, определение онкомаркеров и визуализирующие исследования, такие как компьютерная томография (КТ) или магнитно-резонансная томография (МРТ)."
 msgstr "For moderate and high risk of cervical cancer, a full comprehensive evaluation is recommended: HPV testing, cytology, colposcopy, histological analysis, immunomorphological studies, tumor marker assessment, and imaging studies such as CT or MRI."
 
@@ -723,6 +727,14 @@ msgstr "For moderate and high risk of cervical cancer, a full comprehensive eval
 #: src/helpers/hooks/useResult.ts:28
 #~ msgid "При ЦИН 1 (LSIL) на фоне инфицирования высокоонкогенными штаммами ВПЧ рекомендован курс вагинальных суппозиториев с дииндолилметаном (Цервикон ДИМ) в течение 3 месяцев с последующим скринингом через 6 месяцев. При ЦИН 2 (HSIL) показано комплексное консервативное (Цервикон ДИМ) и хирургическое лечение (конизация или эксцизия шейки матки) с тщательной гистологией и скринингом через 6 месяцев."
 #~ msgstr "For CIN 1 (LSIL) with high-oncogenic HPV infection, a 3-month course of vaginal suppositories containing diindolylmethane (Cervikon DIM) is recommended, followed by screening after 6 months. For CIN 2 (HSIL), combined conservative treatment (Cervikon DIM) and surgical treatment (conization or cervical excision) with thorough histology and repeat screening after 6 months are indicated."
+
+#: src/helpers/hooks/useResult.ts:19
+msgid "При ЦИН 2 (HSIL) рекомендуется комплексное консервативное (Цервикон ДИМ) и хирургическое лечение (конизация или эксцизия шейки матки) с проведением тщательного гистологического исследования биоптатов, а также последующего скрининга через 6 месяцев."
+msgstr "For CIN 2 (HSIL), combined conservative treatment (Cervikon DIM) and surgical treatment (conization or cervical excision) are recommended, with thorough histological examination of biopsy samples and follow-up screening after 6 months."
+
+#: src/helpers/hooks/useResult.ts:21
+msgid "При ЦИН 3 (HSIL) необходимо перенаправление для обследования и лечения у онко-гинеколога."
+msgstr "For CIN 3 (HSIL), referral to an oncogynecologist for evaluation and treatment is required."
 
 #: src/helpers/hooks/useQuestions.tsx:165
 #~ msgid "Признаки эндотелиальной дисфункции включают ухудшение кровоснабжения, что может проявляться в виде боли в груди (стенокардии), одышки при физической нагрузке и повышенной утомляемости. При прогрессировании дисфункции также могут возникать отеки ног или стоп"
@@ -737,7 +749,7 @@ msgstr "For moderate and high risk of cervical cancer, a full comprehensive eval
 #~ msgid "Прогрессирующая"
 #~ msgstr "Progressive"
 
-#: src/pages/Result.tsx:55
+#: src/pages/Result.tsx:59
 msgid "Пройти заново"
 msgstr "Retry"
 
@@ -746,8 +758,8 @@ msgstr "Retry"
 #~ msgid "Результат"
 #~ msgstr "Result"
 
-#: src/pages/Result.tsx:32
-#: src/pages/Result.tsx:60
+#: src/pages/Result.tsx:35
+#: src/pages/Result.tsx:65
 msgid "Результат оценки"
 msgstr "Assessment result"
 
@@ -817,7 +829,7 @@ msgstr "How many births have you had?"
 msgid "Сопутствующие инфекционные заболевания"
 msgstr "Comorbid infectious diseases"
 
-#: src/pages/Result.tsx:62
+#: src/pages/Result.tsx:68
 msgid "Сохранить и выгрузить"
 msgstr "Save and export"
 
@@ -833,7 +845,7 @@ msgstr "Save and export"
 #~ msgid "Средняя степень риска акушерского кровотечения"
 #~ msgstr "Medium risk of obstetric hemorrhage"
 
-#: src/helpers/hooks/useResult.ts:44
+#: src/helpers/hooks/useResult.ts:40
 msgid "Средняя степень риска развития ЦИН и РШМ"
 msgstr "Moderate risk of CIN and cervical cancer"
 
@@ -845,8 +857,8 @@ msgstr "Moderate risk of CIN and cervical cancer"
 msgid "Субклинические формы"
 msgstr "Subclinical forms"
 
-#: src/helpers/hooks/useResult.ts:38
-#: src/helpers/hooks/useResult.ts:62
+#: src/helpers/hooks/useResult.ts:34
+#: src/helpers/hooks/useResult.ts:58
 msgid "Сумма 0-9 баллов соответствует низкой степени риска развития ЦИН и РШМ."
 msgstr "A total score of 0-9 corresponds to low risk of CIN and cervical cancer."
 
@@ -855,7 +867,7 @@ msgstr "A total score of 0-9 corresponds to low risk of CIN and cervical cancer.
 #~ msgid "Сумма 0-9 баллов соответствует низкой степени риска. Показаны плановые скрининговые обследования (цитология, ВПЧ-тестирование по показаниям) и динамическое наблюдение."
 #~ msgstr "A total score of 0-9 corresponds to low risk. Routine screening (cytology, HPV testing when indicated) and follow-up are recommended."
 
-#: src/helpers/hooks/useResult.ts:46
+#: src/helpers/hooks/useResult.ts:42
 msgid "Сумма 10-18 баллов соответствует средней степени риска развития ЦИН и РШМ."
 msgstr "A total score of 10-18 corresponds to moderate risk of CIN and cervical cancer."
 
@@ -863,11 +875,11 @@ msgstr "A total score of 10-18 corresponds to moderate risk of CIN and cervical 
 #~ msgid "Сумма 10-18 баллов соответствует средней степени риска. Требуется полноценное комплексное обследование: ВПЧ-тестирование, цитологическое исследование, кольпоскопия, гистологический анализ, иммуноморфологические исследования, онкомаркеры и визуализирующие методы (КТ/МРТ) по показаниям."
 #~ msgstr "A total score of 10-18 corresponds to moderate risk. A full comprehensive evaluation is required: HPV testing, cytology, colposcopy, histology, immunomorphology, tumor markers, and imaging (CT/MRI) as indicated."
 
-#: src/helpers/hooks/useResult.ts:54
+#: src/helpers/hooks/useResult.ts:50
 msgid "Сумма 19-28 баллов соответствует высокой степени риска. Пациентка относится к группе активного диспансерного наблюдения с маршрутизацией к онкогинекологу и проведением углубленной диагностики."
 msgstr "A total score of 19-28 corresponds to high risk. The patient should be included in active follow-up with referral to an oncogynecologist and extended diagnostics."
 
-#: src/pages/Result.tsx:34
+#: src/pages/Result.tsx:37
 msgid "Сумма баллов"
 msgstr "Total score"
 
@@ -875,13 +887,17 @@ msgstr "Total score"
 msgid "Табакокурение"
 msgstr "Tobacco smoking"
 
-#: src/pages/Result.tsx:43
+#: src/pages/Result.tsx:46
 msgid "Тактика ведения"
 msgstr "Management strategy"
 
 #: src/helpers/hooks/useResult.ts:28
 #~ msgid "Тактика ведения родов планируется и проводится в соответствии с акушерской ситуацией. При ведении родов через естественные родовые пути в конце 2 периода в/в капельно 1 мл. (5 ЕД) Окситоцина на 500,0 мл физиологического раствора со скоростью от 6-7 капель в минуту в конце второго периода с увеличением до 80 капель после рождения плечиков. Введение Окситоцина необходимо продолжать в раннем послеродовом периоде. При кесаревом сечении Окситоцин 1 мл. (5 ЕД) в/в медленно или Пабал 1 мл. (100 мкг.) в/в после извлечения ребенка. Или 1 мл. (5 ЕД) Окситоцина на 50,0 мл физиологического раствора со скоростью   до 80 капель в минуту. Болюсное введение утеротоников более предпочтительно нежели капельное, так как эффект начинается обычно «на конце иглы»."
 #~ msgstr "Labor management tactics are planned and carried out in accordance with the obstetric situation. In case of vaginal delivery, at the end of the 2nd period, 1 ml (5 U) of Oxytocin per 500.0 ml of saline solution is administered intravenously by drip at a rate of 6-7 drops per minute at the end of the second period, increasing to 80 drops after the shoulders are born. Oxytocin administration should be continued in the early postpartum period. In case of cesarean section, Oxytocin 1 ml (5 U) intravenously slowly or Pabal 1 ml (100 mcg) intravenously after the baby is extracted. Or 1 ml (5 U) of Oxytocin per 50.0 ml of saline solution at a rate of up to 80 drops per minute. Bolus administration of uterotonics is preferable to drip administration, since the effect usually begins \"at the end of the needle."
+
+#: src/helpers/hooks/useResult.ts:23
+msgid "Тактика по ЦИН определяется после уточнения степени по ПАП-тесту."
+msgstr "CIN management is determined after clarifying the grade by PAP test."
 
 #: src/helpers/hooks/useQuestions.tsx:31
 msgid "Травмы шейки матки"
@@ -891,7 +907,7 @@ msgstr "Cervical trauma"
 #~ msgid "У вас высокий риск возникновения сильного кровотечения во время родов. Это означает, что необходимо особое внимание со стороны врачей, возможно, более частые госпитализации и тщательное обследование. Врачи заранее разработают план родов, возможно, с плановым кесаревым сечением, чтобы минимизировать риски."
 #~ msgstr "You have a high risk of severe bleeding during childbirth. This means special attention from doctors is needed, possibly more frequent hospitalizations and thorough examinations. Doctors will develop a birth plan in advance, possibly with an elective cesarean section, to minimize risks."
 
-#: src/helpers/hooks/useResult.ts:53
+#: src/helpers/hooks/useResult.ts:49
 msgid "У вас высокий риск развития предраковых изменений и рака шейки матки. Нужна приоритетная консультация гинеколога/онкогинеколога и расширенная диагностика без задержек."
 msgstr "You have a high risk of precancerous changes and cervical cancer. Priority consultation with a gynecologist/oncogynecologist and extended diagnostics are needed without delay."
 
@@ -900,8 +916,8 @@ msgstr "You have a high risk of precancerous changes and cervical cancer. Priori
 #~ msgid "У вас низкий риск возникновения сильного кровотечения во время родов. Это означает, что ваша беременность протекает без выраженных факторов риска. Тем не менее, врач будет внимательно следить за вашим состоянием и проводить стандартные обследования."
 #~ msgstr "You have a low risk of severe bleeding during childbirth. This means your pregnancy is progressing without significant risk factors. However, your doctor will monitor you closely and perform standard examinations."
 
-#: src/helpers/hooks/useResult.ts:37
-#: src/helpers/hooks/useResult.ts:61
+#: src/helpers/hooks/useResult.ts:33
+#: src/helpers/hooks/useResult.ts:57
 msgid "У вас низкий риск развития цервикальной интраэпителиальной неоплазии и рака шейки матки. Рекомендуется регулярный скрининг не реже 1 раза в год и наблюдение у гинеколога."
 msgstr "You have a low risk of cervical intraepithelial neoplasia and cervical cancer. Regular screening at least once a year and gynecologic follow-up are recommended."
 
@@ -909,9 +925,13 @@ msgstr "You have a low risk of cervical intraepithelial neoplasia and cervical c
 #~ msgid "У вас средний риск возникновения кровотечения во время родов. Это означает, что есть некоторые факторы, требующие более внимательного наблюдения. Ваш врач будет чаще проводить обследования и, возможно, госпитализирует вас перед родами для более тщательного контроля."
 #~ msgstr "You have a moderate risk of bleeding during childbirth. This means there are some factors requiring closer monitoring. Your doctor will perform more frequent examinations and may hospitalize you before delivery for more careful monitoring."
 
-#: src/helpers/hooks/useResult.ts:45
-msgid "У вас средний риск развития цервикальной неоплазии и рака шейки матки. Не откладывайте расширенное обследование у специалиста и контрольные исследования в ближайшие месяцы."
-msgstr "You have a moderate risk of cervical neoplasia and cervical cancer. Do not delay extended evaluation by a specialist and follow-up testing in the coming months."
+#: src/helpers/hooks/useResult.ts:41
+#~ msgid "У вас средний риск развития цервикальной неоплазии и рака шейки матки. Не откладывайте расширенное обследование у специалиста и контрольные исследования в ближайшие месяцы."
+#~ msgstr "You have a moderate risk of cervical neoplasia and cervical cancer. Do not delay extended evaluation by a specialist and follow-up testing in the coming months."
+
+#: src/helpers/hooks/useResult.ts:41
+msgid "У вас средний риск развития цервикальной неоплазии и рака шейки матки. Не откладывайте расширенное обследование у специалиста и контрольные, пройдите обследование в ближайшее время."
+msgstr "You have a moderate risk of cervical neoplasia and cervical cancer. Do not delay specialist evaluation and follow-up checks; complete the examination as soon as possible."
 
 #: src/helpers/hooks/useQuestions.tsx:11
 msgid "Укажите ваш возраст."
@@ -1025,7 +1045,7 @@ msgstr "Erosion, ectropion"
 #~ msgid "Это виртуальный акушерский консультант, который поможет вам определить риски акушерского кровотечения, а врачам предложит план лечения."
 #~ msgstr "This is a virtual obstetric consultant who will help you identify the risks of obstetric bleeding and will offer doctors a treatment plan."
 
-#: src/pages/Select.tsx:21
+#: src/pages/Select.tsx:23
 msgid "Это виртуальный консультант для оценки степени риска развития цервикальной интраэпителиальной неоплазии и рака шейки матки. Врачам доступна расширенная тактика ведения по результатам."
 msgstr "This is a virtual consultant for assessing the risk of cervical intraepithelial neoplasia and cervical cancer. Doctors have access to extended management guidance based on results."
 
